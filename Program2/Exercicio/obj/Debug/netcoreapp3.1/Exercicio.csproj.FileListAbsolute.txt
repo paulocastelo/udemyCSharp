@@ -1,0 +1,13 @@
+C:\Projetos\CSharp2020\Program2\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.exe
+C:\Projetos\CSharp2020\Program2\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.deps.json
+C:\Projetos\CSharp2020\Program2\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.json
+C:\Projetos\CSharp2020\Program2\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Program2\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.dll
+C:\Projetos\CSharp2020\Program2\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.pdb
+C:\Projetos\CSharp2020\Program2\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csprojAssemblyReference.cache
+C:\Projetos\CSharp2020\Program2\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Program2\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Program2\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Program2\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.dll
+C:\Projetos\CSharp2020\Program2\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.pdb
+C:\Projetos\CSharp2020\Program2\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.genruntimeconfig.cache

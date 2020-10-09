@@ -1,0 +1,13 @@
+C:\Projetos\CSharp2020\Program2\Program2\bin\Debug\netcoreapp3.1\Program2.exe
+C:\Projetos\CSharp2020\Program2\Program2\bin\Debug\netcoreapp3.1\Program2.deps.json
+C:\Projetos\CSharp2020\Program2\Program2\bin\Debug\netcoreapp3.1\Program2.runtimeconfig.json
+C:\Projetos\CSharp2020\Program2\Program2\bin\Debug\netcoreapp3.1\Program2.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Program2\Program2\bin\Debug\netcoreapp3.1\Program2.dll
+C:\Projetos\CSharp2020\Program2\Program2\bin\Debug\netcoreapp3.1\Program2.pdb
+C:\Projetos\CSharp2020\Program2\Program2\obj\Debug\netcoreapp3.1\Program2.csprojAssemblyReference.cache
+C:\Projetos\CSharp2020\Program2\Program2\obj\Debug\netcoreapp3.1\Program2.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Program2\Program2\obj\Debug\netcoreapp3.1\Program2.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Program2\Program2\obj\Debug\netcoreapp3.1\Program2.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Program2\Program2\obj\Debug\netcoreapp3.1\Program2.dll
+C:\Projetos\CSharp2020\Program2\Program2\obj\Debug\netcoreapp3.1\Program2.pdb
+C:\Projetos\CSharp2020\Program2\Program2\obj\Debug\netcoreapp3.1\Program2.genruntimeconfig.cache

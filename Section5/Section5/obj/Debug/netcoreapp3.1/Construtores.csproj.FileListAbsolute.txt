@@ -1,0 +1,13 @@
+C:\Projetos\CSharp2020\Section5\Section5\bin\Debug\netcoreapp3.1\Construtores.exe
+C:\Projetos\CSharp2020\Section5\Section5\bin\Debug\netcoreapp3.1\Construtores.deps.json
+C:\Projetos\CSharp2020\Section5\Section5\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.json
+C:\Projetos\CSharp2020\Section5\Section5\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Section5\Section5\bin\Debug\netcoreapp3.1\Construtores.dll
+C:\Projetos\CSharp2020\Section5\Section5\bin\Debug\netcoreapp3.1\Construtores.pdb
+C:\Projetos\CSharp2020\Section5\Section5\obj\Debug\netcoreapp3.1\Construtores.csprojAssemblyReference.cache
+C:\Projetos\CSharp2020\Section5\Section5\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Section5\Section5\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Section5\Section5\obj\Debug\netcoreapp3.1\Construtores.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Section5\Section5\obj\Debug\netcoreapp3.1\Construtores.dll
+C:\Projetos\CSharp2020\Section5\Section5\obj\Debug\netcoreapp3.1\Construtores.pdb
+C:\Projetos\CSharp2020\Section5\Section5\obj\Debug\netcoreapp3.1\Construtores.genruntimeconfig.cache

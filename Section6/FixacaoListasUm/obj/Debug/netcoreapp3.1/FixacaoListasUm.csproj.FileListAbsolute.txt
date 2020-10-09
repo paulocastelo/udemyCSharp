@@ -1,0 +1,13 @@
+C:\Projetos\CSharp2020\Section6\FixacaoListasUm\bin\Debug\netcoreapp3.1\FixacaoListasUm.exe
+C:\Projetos\CSharp2020\Section6\FixacaoListasUm\bin\Debug\netcoreapp3.1\FixacaoListasUm.deps.json
+C:\Projetos\CSharp2020\Section6\FixacaoListasUm\bin\Debug\netcoreapp3.1\FixacaoListasUm.runtimeconfig.json
+C:\Projetos\CSharp2020\Section6\FixacaoListasUm\bin\Debug\netcoreapp3.1\FixacaoListasUm.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Section6\FixacaoListasUm\bin\Debug\netcoreapp3.1\FixacaoListasUm.dll
+C:\Projetos\CSharp2020\Section6\FixacaoListasUm\bin\Debug\netcoreapp3.1\FixacaoListasUm.pdb
+C:\Projetos\CSharp2020\Section6\FixacaoListasUm\obj\Debug\netcoreapp3.1\FixacaoListasUm.csprojAssemblyReference.cache
+C:\Projetos\CSharp2020\Section6\FixacaoListasUm\obj\Debug\netcoreapp3.1\FixacaoListasUm.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Section6\FixacaoListasUm\obj\Debug\netcoreapp3.1\FixacaoListasUm.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Section6\FixacaoListasUm\obj\Debug\netcoreapp3.1\FixacaoListasUm.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Section6\FixacaoListasUm\obj\Debug\netcoreapp3.1\FixacaoListasUm.dll
+C:\Projetos\CSharp2020\Section6\FixacaoListasUm\obj\Debug\netcoreapp3.1\FixacaoListasUm.pdb
+C:\Projetos\CSharp2020\Section6\FixacaoListasUm\obj\Debug\netcoreapp3.1\FixacaoListasUm.genruntimeconfig.cache

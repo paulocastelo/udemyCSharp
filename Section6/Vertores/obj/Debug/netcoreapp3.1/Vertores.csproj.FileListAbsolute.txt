@@ -1,0 +1,12 @@
+C:\Projetos\CSharp2020\Section6\Vertores\bin\Debug\netcoreapp3.1\Vertores.exe
+C:\Projetos\CSharp2020\Section6\Vertores\bin\Debug\netcoreapp3.1\Vertores.deps.json
+C:\Projetos\CSharp2020\Section6\Vertores\bin\Debug\netcoreapp3.1\Vertores.runtimeconfig.json
+C:\Projetos\CSharp2020\Section6\Vertores\bin\Debug\netcoreapp3.1\Vertores.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Section6\Vertores\bin\Debug\netcoreapp3.1\Vertores.dll
+C:\Projetos\CSharp2020\Section6\Vertores\bin\Debug\netcoreapp3.1\Vertores.pdb
+C:\Projetos\CSharp2020\Section6\Vertores\obj\Debug\netcoreapp3.1\Vertores.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Section6\Vertores\obj\Debug\netcoreapp3.1\Vertores.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Section6\Vertores\obj\Debug\netcoreapp3.1\Vertores.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Section6\Vertores\obj\Debug\netcoreapp3.1\Vertores.dll
+C:\Projetos\CSharp2020\Section6\Vertores\obj\Debug\netcoreapp3.1\Vertores.pdb
+C:\Projetos\CSharp2020\Section6\Vertores\obj\Debug\netcoreapp3.1\Vertores.genruntimeconfig.cache

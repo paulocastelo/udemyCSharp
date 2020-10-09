@@ -1,0 +1,13 @@
+C:\Projetos\CSharp2020\Section4\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.exe
+C:\Projetos\CSharp2020\Section4\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.deps.json
+C:\Projetos\CSharp2020\Section4\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.runtimeconfig.json
+C:\Projetos\CSharp2020\Section4\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Section4\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.dll
+C:\Projetos\CSharp2020\Section4\Funcionario\bin\Debug\netcoreapp3.1\Funcionario.pdb
+C:\Projetos\CSharp2020\Section4\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.csprojAssemblyReference.cache
+C:\Projetos\CSharp2020\Section4\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Section4\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Section4\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Section4\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.dll
+C:\Projetos\CSharp2020\Section4\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.pdb
+C:\Projetos\CSharp2020\Section4\Funcionario\obj\Debug\netcoreapp3.1\Funcionario.genruntimeconfig.cache

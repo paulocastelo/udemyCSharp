@@ -1,0 +1,13 @@
+C:\Projetos\CSharp2020\Section5\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.exe
+C:\Projetos\CSharp2020\Section5\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.deps.json
+C:\Projetos\CSharp2020\Section5\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.json
+C:\Projetos\CSharp2020\Section5\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Section5\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Projetos\CSharp2020\Section5\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Projetos\CSharp2020\Section5\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csprojAssemblyReference.cache
+C:\Projetos\CSharp2020\Section5\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Section5\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Section5\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Section5\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Projetos\CSharp2020\Section5\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Projetos\CSharp2020\Section5\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.genruntimeconfig.cache

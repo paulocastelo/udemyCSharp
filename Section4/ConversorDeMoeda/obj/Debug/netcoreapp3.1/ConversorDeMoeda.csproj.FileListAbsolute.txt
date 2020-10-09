@@ -1,0 +1,12 @@
+C:\Projetos\CSharp2020\Section4\ConversorDeMoeda\bin\Debug\netcoreapp3.1\ConversorDeMoeda.exe
+C:\Projetos\CSharp2020\Section4\ConversorDeMoeda\bin\Debug\netcoreapp3.1\ConversorDeMoeda.deps.json
+C:\Projetos\CSharp2020\Section4\ConversorDeMoeda\bin\Debug\netcoreapp3.1\ConversorDeMoeda.runtimeconfig.json
+C:\Projetos\CSharp2020\Section4\ConversorDeMoeda\bin\Debug\netcoreapp3.1\ConversorDeMoeda.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Section4\ConversorDeMoeda\bin\Debug\netcoreapp3.1\ConversorDeMoeda.dll
+C:\Projetos\CSharp2020\Section4\ConversorDeMoeda\bin\Debug\netcoreapp3.1\ConversorDeMoeda.pdb
+C:\Projetos\CSharp2020\Section4\ConversorDeMoeda\obj\Debug\netcoreapp3.1\ConversorDeMoeda.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Section4\ConversorDeMoeda\obj\Debug\netcoreapp3.1\ConversorDeMoeda.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Section4\ConversorDeMoeda\obj\Debug\netcoreapp3.1\ConversorDeMoeda.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Section4\ConversorDeMoeda\obj\Debug\netcoreapp3.1\ConversorDeMoeda.dll
+C:\Projetos\CSharp2020\Section4\ConversorDeMoeda\obj\Debug\netcoreapp3.1\ConversorDeMoeda.pdb
+C:\Projetos\CSharp2020\Section4\ConversorDeMoeda\obj\Debug\netcoreapp3.1\ConversorDeMoeda.genruntimeconfig.cache

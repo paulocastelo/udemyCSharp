@@ -1,0 +1,13 @@
+C:\Projetos\CSharp2020\Section4\ExerciciosPropostos\bin\Debug\netcoreapp3.1\ExerciciosPropostos.exe
+C:\Projetos\CSharp2020\Section4\ExerciciosPropostos\bin\Debug\netcoreapp3.1\ExerciciosPropostos.deps.json
+C:\Projetos\CSharp2020\Section4\ExerciciosPropostos\bin\Debug\netcoreapp3.1\ExerciciosPropostos.runtimeconfig.json
+C:\Projetos\CSharp2020\Section4\ExerciciosPropostos\bin\Debug\netcoreapp3.1\ExerciciosPropostos.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Section4\ExerciciosPropostos\bin\Debug\netcoreapp3.1\ExerciciosPropostos.dll
+C:\Projetos\CSharp2020\Section4\ExerciciosPropostos\bin\Debug\netcoreapp3.1\ExerciciosPropostos.pdb
+C:\Projetos\CSharp2020\Section4\ExerciciosPropostos\obj\Debug\netcoreapp3.1\ExerciciosPropostos.csprojAssemblyReference.cache
+C:\Projetos\CSharp2020\Section4\ExerciciosPropostos\obj\Debug\netcoreapp3.1\ExerciciosPropostos.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Section4\ExerciciosPropostos\obj\Debug\netcoreapp3.1\ExerciciosPropostos.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Section4\ExerciciosPropostos\obj\Debug\netcoreapp3.1\ExerciciosPropostos.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Section4\ExerciciosPropostos\obj\Debug\netcoreapp3.1\ExerciciosPropostos.dll
+C:\Projetos\CSharp2020\Section4\ExerciciosPropostos\obj\Debug\netcoreapp3.1\ExerciciosPropostos.pdb
+C:\Projetos\CSharp2020\Section4\ExerciciosPropostos\obj\Debug\netcoreapp3.1\ExerciciosPropostos.genruntimeconfig.cache

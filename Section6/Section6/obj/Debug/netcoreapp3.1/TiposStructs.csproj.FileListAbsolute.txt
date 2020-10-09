@@ -1,0 +1,13 @@
+C:\Projetos\CSharp2020\Section6\Section6\obj\Debug\netcoreapp3.1\TiposStructs.csprojAssemblyReference.cache
+C:\Projetos\CSharp2020\Section6\Section6\obj\Debug\netcoreapp3.1\TiposStructs.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Section6\Section6\obj\Debug\netcoreapp3.1\TiposStructs.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Section6\Section6\obj\Debug\netcoreapp3.1\TiposStructs.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Section6\Section6\bin\Debug\netcoreapp3.1\TiposStructs.exe
+C:\Projetos\CSharp2020\Section6\Section6\bin\Debug\netcoreapp3.1\TiposStructs.deps.json
+C:\Projetos\CSharp2020\Section6\Section6\bin\Debug\netcoreapp3.1\TiposStructs.runtimeconfig.json
+C:\Projetos\CSharp2020\Section6\Section6\bin\Debug\netcoreapp3.1\TiposStructs.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Section6\Section6\bin\Debug\netcoreapp3.1\TiposStructs.dll
+C:\Projetos\CSharp2020\Section6\Section6\bin\Debug\netcoreapp3.1\TiposStructs.pdb
+C:\Projetos\CSharp2020\Section6\Section6\obj\Debug\netcoreapp3.1\TiposStructs.dll
+C:\Projetos\CSharp2020\Section6\Section6\obj\Debug\netcoreapp3.1\TiposStructs.pdb
+C:\Projetos\CSharp2020\Section6\Section6\obj\Debug\netcoreapp3.1\TiposStructs.genruntimeconfig.cache

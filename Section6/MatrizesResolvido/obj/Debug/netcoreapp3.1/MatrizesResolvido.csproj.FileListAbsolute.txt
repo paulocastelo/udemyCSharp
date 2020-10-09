@@ -1,0 +1,13 @@
+C:\Projetos\CSharp2020\Section6\MatrizesResolvido\bin\Debug\netcoreapp3.1\MatrizesResolvido.exe
+C:\Projetos\CSharp2020\Section6\MatrizesResolvido\bin\Debug\netcoreapp3.1\MatrizesResolvido.deps.json
+C:\Projetos\CSharp2020\Section6\MatrizesResolvido\bin\Debug\netcoreapp3.1\MatrizesResolvido.runtimeconfig.json
+C:\Projetos\CSharp2020\Section6\MatrizesResolvido\bin\Debug\netcoreapp3.1\MatrizesResolvido.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Section6\MatrizesResolvido\bin\Debug\netcoreapp3.1\MatrizesResolvido.dll
+C:\Projetos\CSharp2020\Section6\MatrizesResolvido\bin\Debug\netcoreapp3.1\MatrizesResolvido.pdb
+C:\Projetos\CSharp2020\Section6\MatrizesResolvido\obj\Debug\netcoreapp3.1\MatrizesResolvido.csprojAssemblyReference.cache
+C:\Projetos\CSharp2020\Section6\MatrizesResolvido\obj\Debug\netcoreapp3.1\MatrizesResolvido.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Section6\MatrizesResolvido\obj\Debug\netcoreapp3.1\MatrizesResolvido.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Section6\MatrizesResolvido\obj\Debug\netcoreapp3.1\MatrizesResolvido.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Section6\MatrizesResolvido\obj\Debug\netcoreapp3.1\MatrizesResolvido.dll
+C:\Projetos\CSharp2020\Section6\MatrizesResolvido\obj\Debug\netcoreapp3.1\MatrizesResolvido.pdb
+C:\Projetos\CSharp2020\Section6\MatrizesResolvido\obj\Debug\netcoreapp3.1\MatrizesResolvido.genruntimeconfig.cache

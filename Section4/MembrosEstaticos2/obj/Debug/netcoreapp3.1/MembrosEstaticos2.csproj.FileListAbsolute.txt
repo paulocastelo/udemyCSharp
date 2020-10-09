@@ -1,0 +1,12 @@
+C:\Projetos\CSharp2020\Section4\MembrosEstaticos2\bin\Debug\netcoreapp3.1\MembrosEstaticos2.exe
+C:\Projetos\CSharp2020\Section4\MembrosEstaticos2\bin\Debug\netcoreapp3.1\MembrosEstaticos2.deps.json
+C:\Projetos\CSharp2020\Section4\MembrosEstaticos2\bin\Debug\netcoreapp3.1\MembrosEstaticos2.runtimeconfig.json
+C:\Projetos\CSharp2020\Section4\MembrosEstaticos2\bin\Debug\netcoreapp3.1\MembrosEstaticos2.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Section4\MembrosEstaticos2\bin\Debug\netcoreapp3.1\MembrosEstaticos2.dll
+C:\Projetos\CSharp2020\Section4\MembrosEstaticos2\bin\Debug\netcoreapp3.1\MembrosEstaticos2.pdb
+C:\Projetos\CSharp2020\Section4\MembrosEstaticos2\obj\Debug\netcoreapp3.1\MembrosEstaticos2.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Section4\MembrosEstaticos2\obj\Debug\netcoreapp3.1\MembrosEstaticos2.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Section4\MembrosEstaticos2\obj\Debug\netcoreapp3.1\MembrosEstaticos2.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Section4\MembrosEstaticos2\obj\Debug\netcoreapp3.1\MembrosEstaticos2.dll
+C:\Projetos\CSharp2020\Section4\MembrosEstaticos2\obj\Debug\netcoreapp3.1\MembrosEstaticos2.pdb
+C:\Projetos\CSharp2020\Section4\MembrosEstaticos2\obj\Debug\netcoreapp3.1\MembrosEstaticos2.genruntimeconfig.cache

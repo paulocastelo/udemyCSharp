@@ -1,0 +1,12 @@
+C:\Projetos\CSharp2020\Section4\Aluno\bin\Debug\netcoreapp3.1\Aluno.exe
+C:\Projetos\CSharp2020\Section4\Aluno\bin\Debug\netcoreapp3.1\Aluno.deps.json
+C:\Projetos\CSharp2020\Section4\Aluno\bin\Debug\netcoreapp3.1\Aluno.runtimeconfig.json
+C:\Projetos\CSharp2020\Section4\Aluno\bin\Debug\netcoreapp3.1\Aluno.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Section4\Aluno\bin\Debug\netcoreapp3.1\Aluno.dll
+C:\Projetos\CSharp2020\Section4\Aluno\bin\Debug\netcoreapp3.1\Aluno.pdb
+C:\Projetos\CSharp2020\Section4\Aluno\obj\Debug\netcoreapp3.1\Aluno.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Section4\Aluno\obj\Debug\netcoreapp3.1\Aluno.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Section4\Aluno\obj\Debug\netcoreapp3.1\Aluno.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Section4\Aluno\obj\Debug\netcoreapp3.1\Aluno.dll
+C:\Projetos\CSharp2020\Section4\Aluno\obj\Debug\netcoreapp3.1\Aluno.pdb
+C:\Projetos\CSharp2020\Section4\Aluno\obj\Debug\netcoreapp3.1\Aluno.genruntimeconfig.cache

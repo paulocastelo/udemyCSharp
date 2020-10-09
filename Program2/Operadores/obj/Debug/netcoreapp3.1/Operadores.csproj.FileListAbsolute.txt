@@ -1,0 +1,13 @@
+C:\Projetos\CSharp2020\Program2\Operadores\bin\Debug\netcoreapp3.1\Operadores.exe
+C:\Projetos\CSharp2020\Program2\Operadores\bin\Debug\netcoreapp3.1\Operadores.deps.json
+C:\Projetos\CSharp2020\Program2\Operadores\bin\Debug\netcoreapp3.1\Operadores.runtimeconfig.json
+C:\Projetos\CSharp2020\Program2\Operadores\bin\Debug\netcoreapp3.1\Operadores.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Program2\Operadores\bin\Debug\netcoreapp3.1\Operadores.dll
+C:\Projetos\CSharp2020\Program2\Operadores\bin\Debug\netcoreapp3.1\Operadores.pdb
+C:\Projetos\CSharp2020\Program2\Operadores\obj\Debug\netcoreapp3.1\Operadores.csprojAssemblyReference.cache
+C:\Projetos\CSharp2020\Program2\Operadores\obj\Debug\netcoreapp3.1\Operadores.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Program2\Operadores\obj\Debug\netcoreapp3.1\Operadores.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Program2\Operadores\obj\Debug\netcoreapp3.1\Operadores.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Program2\Operadores\obj\Debug\netcoreapp3.1\Operadores.dll
+C:\Projetos\CSharp2020\Program2\Operadores\obj\Debug\netcoreapp3.1\Operadores.pdb
+C:\Projetos\CSharp2020\Program2\Operadores\obj\Debug\netcoreapp3.1\Operadores.genruntimeconfig.cache

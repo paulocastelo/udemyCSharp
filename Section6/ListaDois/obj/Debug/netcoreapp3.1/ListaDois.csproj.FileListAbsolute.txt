@@ -1,0 +1,13 @@
+C:\Projetos\CSharp2020\Section6\ListaDois\bin\Debug\netcoreapp3.1\ListaDois.exe
+C:\Projetos\CSharp2020\Section6\ListaDois\bin\Debug\netcoreapp3.1\ListaDois.deps.json
+C:\Projetos\CSharp2020\Section6\ListaDois\bin\Debug\netcoreapp3.1\ListaDois.runtimeconfig.json
+C:\Projetos\CSharp2020\Section6\ListaDois\bin\Debug\netcoreapp3.1\ListaDois.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Section6\ListaDois\bin\Debug\netcoreapp3.1\ListaDois.dll
+C:\Projetos\CSharp2020\Section6\ListaDois\bin\Debug\netcoreapp3.1\ListaDois.pdb
+C:\Projetos\CSharp2020\Section6\ListaDois\obj\Debug\netcoreapp3.1\ListaDois.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Section6\ListaDois\obj\Debug\netcoreapp3.1\ListaDois.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Section6\ListaDois\obj\Debug\netcoreapp3.1\ListaDois.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Section6\ListaDois\obj\Debug\netcoreapp3.1\ListaDois.dll
+C:\Projetos\CSharp2020\Section6\ListaDois\obj\Debug\netcoreapp3.1\ListaDois.pdb
+C:\Projetos\CSharp2020\Section6\ListaDois\obj\Debug\netcoreapp3.1\ListaDois.genruntimeconfig.cache
+C:\Projetos\CSharp2020\Section6\ListaDois\obj\Debug\netcoreapp3.1\ListaDois.csprojAssemblyReference.cache

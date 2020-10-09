@@ -1,0 +1,12 @@
+C:\Projetos\CSharp2020\Section6\VetoresObjetos\bin\Debug\netcoreapp3.1\VetoresObjetos.exe
+C:\Projetos\CSharp2020\Section6\VetoresObjetos\bin\Debug\netcoreapp3.1\VetoresObjetos.deps.json
+C:\Projetos\CSharp2020\Section6\VetoresObjetos\bin\Debug\netcoreapp3.1\VetoresObjetos.runtimeconfig.json
+C:\Projetos\CSharp2020\Section6\VetoresObjetos\bin\Debug\netcoreapp3.1\VetoresObjetos.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Section6\VetoresObjetos\bin\Debug\netcoreapp3.1\VetoresObjetos.dll
+C:\Projetos\CSharp2020\Section6\VetoresObjetos\bin\Debug\netcoreapp3.1\VetoresObjetos.pdb
+C:\Projetos\CSharp2020\Section6\VetoresObjetos\obj\Debug\netcoreapp3.1\VetoresObjetos.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Section6\VetoresObjetos\obj\Debug\netcoreapp3.1\VetoresObjetos.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Section6\VetoresObjetos\obj\Debug\netcoreapp3.1\VetoresObjetos.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Section6\VetoresObjetos\obj\Debug\netcoreapp3.1\VetoresObjetos.dll
+C:\Projetos\CSharp2020\Section6\VetoresObjetos\obj\Debug\netcoreapp3.1\VetoresObjetos.pdb
+C:\Projetos\CSharp2020\Section6\VetoresObjetos\obj\Debug\netcoreapp3.1\VetoresObjetos.genruntimeconfig.cache

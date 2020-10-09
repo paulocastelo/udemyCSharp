@@ -1,0 +1,12 @@
+C:\Projetos\CSharp2020\Section6\ForEach\bin\Debug\netcoreapp3.1\ForEach.exe
+C:\Projetos\CSharp2020\Section6\ForEach\bin\Debug\netcoreapp3.1\ForEach.deps.json
+C:\Projetos\CSharp2020\Section6\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.json
+C:\Projetos\CSharp2020\Section6\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Section6\ForEach\bin\Debug\netcoreapp3.1\ForEach.dll
+C:\Projetos\CSharp2020\Section6\ForEach\bin\Debug\netcoreapp3.1\ForEach.pdb
+C:\Projetos\CSharp2020\Section6\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Section6\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Section6\ForEach\obj\Debug\netcoreapp3.1\ForEach.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Section6\ForEach\obj\Debug\netcoreapp3.1\ForEach.dll
+C:\Projetos\CSharp2020\Section6\ForEach\obj\Debug\netcoreapp3.1\ForEach.pdb
+C:\Projetos\CSharp2020\Section6\ForEach\obj\Debug\netcoreapp3.1\ForEach.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Projetos\CSharp2020\Section6\ControlePensionato\bin\Debug\netcoreapp3.1\ControlePensionato.exe
+C:\Projetos\CSharp2020\Section6\ControlePensionato\bin\Debug\netcoreapp3.1\ControlePensionato.deps.json
+C:\Projetos\CSharp2020\Section6\ControlePensionato\bin\Debug\netcoreapp3.1\ControlePensionato.runtimeconfig.json
+C:\Projetos\CSharp2020\Section6\ControlePensionato\bin\Debug\netcoreapp3.1\ControlePensionato.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Section6\ControlePensionato\bin\Debug\netcoreapp3.1\ControlePensionato.dll
+C:\Projetos\CSharp2020\Section6\ControlePensionato\bin\Debug\netcoreapp3.1\ControlePensionato.pdb
+C:\Projetos\CSharp2020\Section6\ControlePensionato\obj\Debug\netcoreapp3.1\ControlePensionato.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Section6\ControlePensionato\obj\Debug\netcoreapp3.1\ControlePensionato.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Section6\ControlePensionato\obj\Debug\netcoreapp3.1\ControlePensionato.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Section6\ControlePensionato\obj\Debug\netcoreapp3.1\ControlePensionato.dll
+C:\Projetos\CSharp2020\Section6\ControlePensionato\obj\Debug\netcoreapp3.1\ControlePensionato.pdb
+C:\Projetos\CSharp2020\Section6\ControlePensionato\obj\Debug\netcoreapp3.1\ControlePensionato.genruntimeconfig.cache
+C:\Projetos\CSharp2020\Section6\ControlePensionato\obj\Debug\netcoreapp3.1\ControlePensionato.csprojAssemblyReference.cache

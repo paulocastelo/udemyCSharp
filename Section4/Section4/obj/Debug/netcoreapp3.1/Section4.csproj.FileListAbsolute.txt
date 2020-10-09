@@ -1,0 +1,13 @@
+C:\Projetos\CSharp2020\Section4\Section4\bin\Debug\netcoreapp3.1\Section4.exe
+C:\Projetos\CSharp2020\Section4\Section4\bin\Debug\netcoreapp3.1\Section4.deps.json
+C:\Projetos\CSharp2020\Section4\Section4\bin\Debug\netcoreapp3.1\Section4.runtimeconfig.json
+C:\Projetos\CSharp2020\Section4\Section4\bin\Debug\netcoreapp3.1\Section4.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Section4\Section4\bin\Debug\netcoreapp3.1\Section4.dll
+C:\Projetos\CSharp2020\Section4\Section4\bin\Debug\netcoreapp3.1\Section4.pdb
+C:\Projetos\CSharp2020\Section4\Section4\obj\Debug\netcoreapp3.1\Section4.csprojAssemblyReference.cache
+C:\Projetos\CSharp2020\Section4\Section4\obj\Debug\netcoreapp3.1\Section4.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Section4\Section4\obj\Debug\netcoreapp3.1\Section4.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Section4\Section4\obj\Debug\netcoreapp3.1\Section4.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Section4\Section4\obj\Debug\netcoreapp3.1\Section4.dll
+C:\Projetos\CSharp2020\Section4\Section4\obj\Debug\netcoreapp3.1\Section4.pdb
+C:\Projetos\CSharp2020\Section4\Section4\obj\Debug\netcoreapp3.1\Section4.genruntimeconfig.cache

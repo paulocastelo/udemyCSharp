@@ -1,0 +1,13 @@
+C:\Projetos\CSharp2020\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+C:\Projetos\CSharp2020\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+C:\Projetos\CSharp2020\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+C:\Projetos\CSharp2020\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+C:\Projetos\CSharp2020\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+C:\Projetos\CSharp2020\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csprojAssemblyReference.cache
+C:\Projetos\CSharp2020\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+C:\Projetos\CSharp2020\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
+C:\Projetos\CSharp2020\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.genruntimeconfig.cache

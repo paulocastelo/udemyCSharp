@@ -1,0 +1,12 @@
+C:\Projetos\CSharp2020\Section6\CalculatorRefOut\bin\Debug\netcoreapp3.1\CalculatorRefOut.exe
+C:\Projetos\CSharp2020\Section6\CalculatorRefOut\bin\Debug\netcoreapp3.1\CalculatorRefOut.deps.json
+C:\Projetos\CSharp2020\Section6\CalculatorRefOut\bin\Debug\netcoreapp3.1\CalculatorRefOut.runtimeconfig.json
+C:\Projetos\CSharp2020\Section6\CalculatorRefOut\bin\Debug\netcoreapp3.1\CalculatorRefOut.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Section6\CalculatorRefOut\bin\Debug\netcoreapp3.1\CalculatorRefOut.dll
+C:\Projetos\CSharp2020\Section6\CalculatorRefOut\bin\Debug\netcoreapp3.1\CalculatorRefOut.pdb
+C:\Projetos\CSharp2020\Section6\CalculatorRefOut\obj\Debug\netcoreapp3.1\CalculatorRefOut.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Section6\CalculatorRefOut\obj\Debug\netcoreapp3.1\CalculatorRefOut.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Section6\CalculatorRefOut\obj\Debug\netcoreapp3.1\CalculatorRefOut.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Section6\CalculatorRefOut\obj\Debug\netcoreapp3.1\CalculatorRefOut.dll
+C:\Projetos\CSharp2020\Section6\CalculatorRefOut\obj\Debug\netcoreapp3.1\CalculatorRefOut.pdb
+C:\Projetos\CSharp2020\Section6\CalculatorRefOut\obj\Debug\netcoreapp3.1\CalculatorRefOut.genruntimeconfig.cache

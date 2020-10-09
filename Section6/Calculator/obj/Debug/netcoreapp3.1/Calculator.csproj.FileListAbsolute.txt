@@ -1,0 +1,12 @@
+C:\Projetos\CSharp2020\Section6\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Projetos\CSharp2020\Section6\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Projetos\CSharp2020\Section6\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Projetos\CSharp2020\Section6\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Projetos\CSharp2020\Section6\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Projetos\CSharp2020\Section6\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Projetos\CSharp2020\Section6\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Projetos\CSharp2020\Section6\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Projetos\CSharp2020\Section6\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp2020\Section6\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Projetos\CSharp2020\Section6\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Projetos\CSharp2020\Section6\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
