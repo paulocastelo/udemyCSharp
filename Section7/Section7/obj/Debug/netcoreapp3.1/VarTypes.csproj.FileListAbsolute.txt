@@ -1,0 +1,12 @@
+C:\Projetos\UdemyCSharp\Section7\Section7\bin\Debug\netcoreapp3.1\VarTypes.exe
+C:\Projetos\UdemyCSharp\Section7\Section7\bin\Debug\netcoreapp3.1\VarTypes.deps.json
+C:\Projetos\UdemyCSharp\Section7\Section7\bin\Debug\netcoreapp3.1\VarTypes.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section7\Section7\bin\Debug\netcoreapp3.1\VarTypes.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section7\Section7\bin\Debug\netcoreapp3.1\VarTypes.dll
+C:\Projetos\UdemyCSharp\Section7\Section7\bin\Debug\netcoreapp3.1\VarTypes.pdb
+C:\Projetos\UdemyCSharp\Section7\Section7\obj\Debug\netcoreapp3.1\VarTypes.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section7\Section7\obj\Debug\netcoreapp3.1\VarTypes.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section7\Section7\obj\Debug\netcoreapp3.1\VarTypes.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section7\Section7\obj\Debug\netcoreapp3.1\VarTypes.dll
+C:\Projetos\UdemyCSharp\Section7\Section7\obj\Debug\netcoreapp3.1\VarTypes.pdb
+C:\Projetos\UdemyCSharp\Section7\Section7\obj\Debug\netcoreapp3.1\VarTypes.genruntimeconfig.cache

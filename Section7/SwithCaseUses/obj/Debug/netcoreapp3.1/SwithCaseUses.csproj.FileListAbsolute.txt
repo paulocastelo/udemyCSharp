@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section7\SwithCaseUses\bin\Debug\netcoreapp3.1\SwithCaseUses.exe
+C:\Projetos\UdemyCSharp\Section7\SwithCaseUses\bin\Debug\netcoreapp3.1\SwithCaseUses.deps.json
+C:\Projetos\UdemyCSharp\Section7\SwithCaseUses\bin\Debug\netcoreapp3.1\SwithCaseUses.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section7\SwithCaseUses\bin\Debug\netcoreapp3.1\SwithCaseUses.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section7\SwithCaseUses\bin\Debug\netcoreapp3.1\SwithCaseUses.dll
+C:\Projetos\UdemyCSharp\Section7\SwithCaseUses\bin\Debug\netcoreapp3.1\SwithCaseUses.pdb
+C:\Projetos\UdemyCSharp\Section7\SwithCaseUses\obj\Debug\netcoreapp3.1\SwithCaseUses.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section7\SwithCaseUses\obj\Debug\netcoreapp3.1\SwithCaseUses.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section7\SwithCaseUses\obj\Debug\netcoreapp3.1\SwithCaseUses.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section7\SwithCaseUses\obj\Debug\netcoreapp3.1\SwithCaseUses.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section7\SwithCaseUses\obj\Debug\netcoreapp3.1\SwithCaseUses.dll
+C:\Projetos\UdemyCSharp\Section7\SwithCaseUses\obj\Debug\netcoreapp3.1\SwithCaseUses.pdb
+C:\Projetos\UdemyCSharp\Section7\SwithCaseUses\obj\Debug\netcoreapp3.1\SwithCaseUses.genruntimeconfig.cache
