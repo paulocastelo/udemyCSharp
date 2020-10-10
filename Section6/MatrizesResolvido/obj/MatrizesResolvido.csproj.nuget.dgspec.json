@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\CSharp2020\\Section6\\MatrizesResolvido\\MatrizesResolvido.csproj": {}
+    "C:\\Projetos\\UdemyCSharp\\Section6\\MatrizesResolvido\\MatrizesResolvido.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\CSharp2020\\Section6\\MatrizesResolvido\\MatrizesResolvido.csproj": {
+    "C:\\Projetos\\UdemyCSharp\\Section6\\MatrizesResolvido\\MatrizesResolvido.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\CSharp2020\\Section6\\MatrizesResolvido\\MatrizesResolvido.csproj",
+        "projectUniqueName": "C:\\Projetos\\UdemyCSharp\\Section6\\MatrizesResolvido\\MatrizesResolvido.csproj",
         "projectName": "MatrizesResolvido",
-        "projectPath": "C:\\Projetos\\CSharp2020\\Section6\\MatrizesResolvido\\MatrizesResolvido.csproj",
+        "projectPath": "C:\\Projetos\\UdemyCSharp\\Section6\\MatrizesResolvido\\MatrizesResolvido.csproj",
         "packagesPath": "C:\\Users\\PauloC\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\CSharp2020\\Section6\\MatrizesResolvido\\obj\\",
+        "outputPath": "C:\\Projetos\\UdemyCSharp\\Section6\\MatrizesResolvido\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PauloC\\AppData\\Roaming\\NuGet\\NuGet.Config",

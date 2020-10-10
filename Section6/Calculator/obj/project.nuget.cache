@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G9T+PSI00U2etkH3z1ddrA3ZvYbHOan9rLBE089aCSPJxZTjP0sceFiLQxjJBFmJBm+BGsul8oBkckGBWQg9HA==",
+  "dgSpecHash": "b6im2rfFJ2gMcgzLrjAeEjrGy5mreDOBnkh9ijM27WUIJHukEZ8ya78koFVgInJ5UjOcDi5L2SktLpvC/xlHGg==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\CSharp2020\\Section6\\Calculator\\CalculatorParams.csproj",
+  "projectFilePath": "C:\\Projetos\\UdemyCSharp\\Section6\\Calculator\\CalculatorParams.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

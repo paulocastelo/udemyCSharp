@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NAIpwJMXW8iQNXKbDkPdVbNEfYAs3mtUqbW9K3+druhg3GOhAXCbiJUAAPfL0CrSvcys2F0Zmvc/RdTqvBLI6Q==",
+  "dgSpecHash": "LLTxHsAK/MwDgjcp7LJIhhzxq8OiFCVM6O/NITTWLBkGQzGrxp6nBd0C44Nv42aTx4FxQ0VZTc3C3EV6jTcRAQ==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\CSharp2020\\Section6\\MatrizesResolvido\\MatrizesResolvido.csproj",
+  "projectFilePath": "C:\\Projetos\\UdemyCSharp\\Section6\\MatrizesResolvido\\MatrizesResolvido.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

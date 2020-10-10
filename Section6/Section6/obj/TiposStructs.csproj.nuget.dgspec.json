@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\CSharp2020\\Section6\\Section6\\TiposStructs.csproj": {}
+    "C:\\Projetos\\UdemyCSharp\\Section6\\Section6\\TiposStructs.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\CSharp2020\\Section6\\Section6\\TiposStructs.csproj": {
+    "C:\\Projetos\\UdemyCSharp\\Section6\\Section6\\TiposStructs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\CSharp2020\\Section6\\Section6\\TiposStructs.csproj",
+        "projectUniqueName": "C:\\Projetos\\UdemyCSharp\\Section6\\Section6\\TiposStructs.csproj",
         "projectName": "TiposStructs",
-        "projectPath": "C:\\Projetos\\CSharp2020\\Section6\\Section6\\TiposStructs.csproj",
+        "projectPath": "C:\\Projetos\\UdemyCSharp\\Section6\\Section6\\TiposStructs.csproj",
         "packagesPath": "C:\\Users\\PauloC\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\CSharp2020\\Section6\\Section6\\obj\\",
+        "outputPath": "C:\\Projetos\\UdemyCSharp\\Section6\\Section6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PauloC\\AppData\\Roaming\\NuGet\\NuGet.Config",

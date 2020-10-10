@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\CSharp2020\\Section6\\ForEach\\ForEach.csproj",
+      "projectUniqueName": "C:\\Projetos\\UdemyCSharp\\Section6\\ForEach\\ForEach.csproj",
       "projectName": "ForEach",
-      "projectPath": "C:\\Projetos\\CSharp2020\\Section6\\ForEach\\ForEach.csproj",
+      "projectPath": "C:\\Projetos\\UdemyCSharp\\Section6\\ForEach\\ForEach.csproj",
       "packagesPath": "C:\\Users\\PauloC\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\CSharp2020\\Section6\\ForEach\\obj\\",
+      "outputPath": "C:\\Projetos\\UdemyCSharp\\Section6\\ForEach\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PauloC\\AppData\\Roaming\\NuGet\\NuGet.Config",

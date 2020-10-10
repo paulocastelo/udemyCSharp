@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4QumYiehXrT2jEzvnIpDAtlqMMECyAkLkP+Mlnn24OCVDXj1QahgF4eITr6oLNvv+ZNf04uT6nxyE+ROCTCB0g==",
+  "dgSpecHash": "jO+xgbdzoc2nJir4GDg1Vfw7PfgHhVdbDlul2L5L8BczzpdbRagnYqJtbRFNRnJKwP7eZ+8qFRMriUNOMcWjYQ==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\CSharp2020\\Section6\\Section6\\TiposStructs.csproj",
+  "projectFilePath": "C:\\Projetos\\UdemyCSharp\\Section6\\Section6\\TiposStructs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

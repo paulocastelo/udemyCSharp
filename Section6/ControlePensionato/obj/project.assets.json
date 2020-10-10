@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\CSharp2020\\Section6\\ControlePensionato\\ControlePensionato.csproj",
+      "projectUniqueName": "C:\\Projetos\\UdemyCSharp\\Section6\\ControlePensionato\\ControlePensionato.csproj",
       "projectName": "ControlePensionato",
-      "projectPath": "C:\\Projetos\\CSharp2020\\Section6\\ControlePensionato\\ControlePensionato.csproj",
+      "projectPath": "C:\\Projetos\\UdemyCSharp\\Section6\\ControlePensionato\\ControlePensionato.csproj",
       "packagesPath": "C:\\Users\\PauloC\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\CSharp2020\\Section6\\ControlePensionato\\obj\\",
+      "outputPath": "C:\\Projetos\\UdemyCSharp\\Section6\\ControlePensionato\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PauloC\\AppData\\Roaming\\NuGet\\NuGet.Config",

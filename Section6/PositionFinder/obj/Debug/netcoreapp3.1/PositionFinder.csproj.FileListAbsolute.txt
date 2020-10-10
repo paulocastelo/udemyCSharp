@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section6\PositionFinder\bin\Debug\netcoreapp3.1\PositionFinder.exe
+C:\Projetos\UdemyCSharp\Section6\PositionFinder\bin\Debug\netcoreapp3.1\PositionFinder.deps.json
+C:\Projetos\UdemyCSharp\Section6\PositionFinder\bin\Debug\netcoreapp3.1\PositionFinder.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section6\PositionFinder\bin\Debug\netcoreapp3.1\PositionFinder.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section6\PositionFinder\bin\Debug\netcoreapp3.1\PositionFinder.dll
+C:\Projetos\UdemyCSharp\Section6\PositionFinder\bin\Debug\netcoreapp3.1\PositionFinder.pdb
+C:\Projetos\UdemyCSharp\Section6\PositionFinder\obj\Debug\netcoreapp3.1\PositionFinder.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section6\PositionFinder\obj\Debug\netcoreapp3.1\PositionFinder.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section6\PositionFinder\obj\Debug\netcoreapp3.1\PositionFinder.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section6\PositionFinder\obj\Debug\netcoreapp3.1\PositionFinder.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section6\PositionFinder\obj\Debug\netcoreapp3.1\PositionFinder.dll
+C:\Projetos\UdemyCSharp\Section6\PositionFinder\obj\Debug\netcoreapp3.1\PositionFinder.pdb
+C:\Projetos\UdemyCSharp\Section6\PositionFinder\obj\Debug\netcoreapp3.1\PositionFinder.genruntimeconfig.cache

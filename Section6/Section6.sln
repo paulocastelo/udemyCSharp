@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListaDois", "ListaDois\List
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FixacaoListasUm", "FixacaoListasUm\FixacaoListasUm.csproj", "{1DFD3801-4ECE-4056-8390-41AC1F1A7A8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrizes", "Matrizes\Matrizes.csproj", "{1629AB31-AE4B-4C5C-969A-6CB81F417878}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrizes", "Matrizes\Matrizes.csproj", "{1629AB31-AE4B-4C5C-969A-6CB81F417878}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrizesResolvido", "MatrizesResolvido\MatrizesResolvido.csproj", "{278785C0-D049-44FA-8C62-94E2279AFA2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrizesResolvido", "MatrizesResolvido\MatrizesResolvido.csproj", "{278785C0-D049-44FA-8C62-94E2279AFA2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositionFinder", "PositionFinder\PositionFinder.csproj", "{61AFE6FC-097D-4F21-A8D2-D8CE35B4A346}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{278785C0-D049-44FA-8C62-94E2279AFA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{278785C0-D049-44FA-8C62-94E2279AFA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{278785C0-D049-44FA-8C62-94E2279AFA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61AFE6FC-097D-4F21-A8D2-D8CE35B4A346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61AFE6FC-097D-4F21-A8D2-D8CE35B4A346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61AFE6FC-097D-4F21-A8D2-D8CE35B4A346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61AFE6FC-097D-4F21-A8D2-D8CE35B4A346}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

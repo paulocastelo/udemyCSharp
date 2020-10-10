@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n8K2jRhoJw2dosW6IiS24y6zAk8dEZCmvhuwdT0vxmPY0ORCXmEELmBQ9sPl9i3YnbPkIWjhGUipfYVgwQ8fXA==",
+  "dgSpecHash": "UT47CneFWRJDc3okXgnt9XxKSQdjRlO8jkPIVkjqdXn7SioLjCDK7wUayWYMZdeCDMSR4MIijod8YsrZVOSsDg==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\CSharp2020\\Section6\\ListaDois\\ListaDois.csproj",
+  "projectFilePath": "C:\\Projetos\\UdemyCSharp\\Section6\\ListaDois\\ListaDois.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x78kyZqZuCEg9CqcykZySVhyLb6KAzj8Kop0/ki5xM64pfx14Y5rBKMJqYP+38Ip64eOq+fMUiZDOPu6zDhvqw==",
+  "dgSpecHash": "WjYxonVTUZa9rJSxVXAesFuivsoXu6FK1eEclleni2wqu1gr6YoV/hgJkn0ufkc1rFM4m4VrTk6Umsegft0CTQ==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\CSharp2020\\Section6\\CalculatorRefOut\\CalculatorRefOut.csproj",
+  "projectFilePath": "C:\\Projetos\\UdemyCSharp\\Section6\\CalculatorRefOut\\CalculatorRefOut.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

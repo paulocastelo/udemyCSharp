@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\CSharp2020\\Section6\\Matrizes\\Matrizes.csproj": {}
+    "C:\\Projetos\\UdemyCSharp\\Section6\\Matrizes\\Matrizes.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\CSharp2020\\Section6\\Matrizes\\Matrizes.csproj": {
+    "C:\\Projetos\\UdemyCSharp\\Section6\\Matrizes\\Matrizes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\CSharp2020\\Section6\\Matrizes\\Matrizes.csproj",
+        "projectUniqueName": "C:\\Projetos\\UdemyCSharp\\Section6\\Matrizes\\Matrizes.csproj",
         "projectName": "Matrizes",
-        "projectPath": "C:\\Projetos\\CSharp2020\\Section6\\Matrizes\\Matrizes.csproj",
+        "projectPath": "C:\\Projetos\\UdemyCSharp\\Section6\\Matrizes\\Matrizes.csproj",
         "packagesPath": "C:\\Users\\PauloC\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\CSharp2020\\Section6\\Matrizes\\obj\\",
+        "outputPath": "C:\\Projetos\\UdemyCSharp\\Section6\\Matrizes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PauloC\\AppData\\Roaming\\NuGet\\NuGet.Config",

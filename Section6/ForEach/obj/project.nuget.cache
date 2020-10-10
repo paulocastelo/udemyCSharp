@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gWq1NCvDB6zjPRsxc7l2HdiPFdRGCASuOM7ZnyXirM/Ntqp+J3e3okasLXn1ZJuOIbsPuij8zzj0MOMRHUgGnw==",
+  "dgSpecHash": "K5RQPXVBFccxxcJnZJCvTNUb74BrXNgVkZWdNKpziE1Z5QpKq243hfszt8bsNwo3W82ZFHws6OiB/nGOIuDxdA==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\CSharp2020\\Section6\\ForEach\\ForEach.csproj",
+  "projectFilePath": "C:\\Projetos\\UdemyCSharp\\Section6\\ForEach\\ForEach.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

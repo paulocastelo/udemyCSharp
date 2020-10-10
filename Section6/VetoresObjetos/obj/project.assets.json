@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\CSharp2020\\Section6\\VetoresObjetos\\VetoresObjetos.csproj",
+      "projectUniqueName": "C:\\Projetos\\UdemyCSharp\\Section6\\VetoresObjetos\\VetoresObjetos.csproj",
       "projectName": "VetoresObjetos",
-      "projectPath": "C:\\Projetos\\CSharp2020\\Section6\\VetoresObjetos\\VetoresObjetos.csproj",
+      "projectPath": "C:\\Projetos\\UdemyCSharp\\Section6\\VetoresObjetos\\VetoresObjetos.csproj",
       "packagesPath": "C:\\Users\\PauloC\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\CSharp2020\\Section6\\VetoresObjetos\\obj\\",
+      "outputPath": "C:\\Projetos\\UdemyCSharp\\Section6\\VetoresObjetos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PauloC\\AppData\\Roaming\\NuGet\\NuGet.Config",

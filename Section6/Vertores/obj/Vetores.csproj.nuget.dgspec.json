@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\CSharp2020\\Section6\\Vertores\\Vetores.csproj": {}
+    "C:\\Projetos\\UdemyCSharp\\Section6\\Vertores\\Vetores.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\CSharp2020\\Section6\\Vertores\\Vetores.csproj": {
+    "C:\\Projetos\\UdemyCSharp\\Section6\\Vertores\\Vetores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\CSharp2020\\Section6\\Vertores\\Vetores.csproj",
+        "projectUniqueName": "C:\\Projetos\\UdemyCSharp\\Section6\\Vertores\\Vetores.csproj",
         "projectName": "Vetores",
-        "projectPath": "C:\\Projetos\\CSharp2020\\Section6\\Vertores\\Vetores.csproj",
+        "projectPath": "C:\\Projetos\\UdemyCSharp\\Section6\\Vertores\\Vetores.csproj",
         "packagesPath": "C:\\Users\\PauloC\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\CSharp2020\\Section6\\Vertores\\obj\\",
+        "outputPath": "C:\\Projetos\\UdemyCSharp\\Section6\\Vertores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PauloC\\AppData\\Roaming\\NuGet\\NuGet.Config",

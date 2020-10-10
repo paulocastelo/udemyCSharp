@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\CSharp2020\\Section6\\Calculator\\CalculatorParams.csproj",
+      "projectUniqueName": "C:\\Projetos\\UdemyCSharp\\Section6\\Calculator\\CalculatorParams.csproj",
       "projectName": "CalculatorParams",
-      "projectPath": "C:\\Projetos\\CSharp2020\\Section6\\Calculator\\CalculatorParams.csproj",
+      "projectPath": "C:\\Projetos\\UdemyCSharp\\Section6\\Calculator\\CalculatorParams.csproj",
       "packagesPath": "C:\\Users\\PauloC\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\CSharp2020\\Section6\\Calculator\\obj\\",
+      "outputPath": "C:\\Projetos\\UdemyCSharp\\Section6\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PauloC\\AppData\\Roaming\\NuGet\\NuGet.Config",
