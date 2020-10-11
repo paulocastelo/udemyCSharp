@@ -1,0 +1,12 @@
+C:\Projetos\UdemyCSharp\Section7\TimeSpanMethod\bin\Debug\netcoreapp3.1\TimeSpanMethod.exe
+C:\Projetos\UdemyCSharp\Section7\TimeSpanMethod\bin\Debug\netcoreapp3.1\TimeSpanMethod.deps.json
+C:\Projetos\UdemyCSharp\Section7\TimeSpanMethod\bin\Debug\netcoreapp3.1\TimeSpanMethod.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section7\TimeSpanMethod\bin\Debug\netcoreapp3.1\TimeSpanMethod.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section7\TimeSpanMethod\bin\Debug\netcoreapp3.1\TimeSpanMethod.dll
+C:\Projetos\UdemyCSharp\Section7\TimeSpanMethod\bin\Debug\netcoreapp3.1\TimeSpanMethod.pdb
+C:\Projetos\UdemyCSharp\Section7\TimeSpanMethod\obj\Debug\netcoreapp3.1\TimeSpanMethod.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section7\TimeSpanMethod\obj\Debug\netcoreapp3.1\TimeSpanMethod.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section7\TimeSpanMethod\obj\Debug\netcoreapp3.1\TimeSpanMethod.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section7\TimeSpanMethod\obj\Debug\netcoreapp3.1\TimeSpanMethod.dll
+C:\Projetos\UdemyCSharp\Section7\TimeSpanMethod\obj\Debug\netcoreapp3.1\TimeSpanMethod.pdb
+C:\Projetos\UdemyCSharp\Section7\TimeSpanMethod\obj\Debug\netcoreapp3.1\TimeSpanMethod.genruntimeconfig.cache

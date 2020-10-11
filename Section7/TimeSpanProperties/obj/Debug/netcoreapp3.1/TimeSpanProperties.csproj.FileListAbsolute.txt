@@ -1,0 +1,12 @@
+C:\Projetos\UdemyCSharp\Section7\TimeSpanProperties\bin\Debug\netcoreapp3.1\TimeSpanProperties.exe
+C:\Projetos\UdemyCSharp\Section7\TimeSpanProperties\bin\Debug\netcoreapp3.1\TimeSpanProperties.deps.json
+C:\Projetos\UdemyCSharp\Section7\TimeSpanProperties\bin\Debug\netcoreapp3.1\TimeSpanProperties.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section7\TimeSpanProperties\bin\Debug\netcoreapp3.1\TimeSpanProperties.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section7\TimeSpanProperties\bin\Debug\netcoreapp3.1\TimeSpanProperties.dll
+C:\Projetos\UdemyCSharp\Section7\TimeSpanProperties\bin\Debug\netcoreapp3.1\TimeSpanProperties.pdb
+C:\Projetos\UdemyCSharp\Section7\TimeSpanProperties\obj\Debug\netcoreapp3.1\TimeSpanProperties.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section7\TimeSpanProperties\obj\Debug\netcoreapp3.1\TimeSpanProperties.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section7\TimeSpanProperties\obj\Debug\netcoreapp3.1\TimeSpanProperties.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section7\TimeSpanProperties\obj\Debug\netcoreapp3.1\TimeSpanProperties.dll
+C:\Projetos\UdemyCSharp\Section7\TimeSpanProperties\obj\Debug\netcoreapp3.1\TimeSpanProperties.pdb
+C:\Projetos\UdemyCSharp\Section7\TimeSpanProperties\obj\Debug\netcoreapp3.1\TimeSpanProperties.genruntimeconfig.cache

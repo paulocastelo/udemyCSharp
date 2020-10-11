@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section7\DateTimeProperties\bin\Debug\netcoreapp3.1\DateTimeProperties.exe
+C:\Projetos\UdemyCSharp\Section7\DateTimeProperties\bin\Debug\netcoreapp3.1\DateTimeProperties.deps.json
+C:\Projetos\UdemyCSharp\Section7\DateTimeProperties\bin\Debug\netcoreapp3.1\DateTimeProperties.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section7\DateTimeProperties\bin\Debug\netcoreapp3.1\DateTimeProperties.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section7\DateTimeProperties\bin\Debug\netcoreapp3.1\DateTimeProperties.dll
+C:\Projetos\UdemyCSharp\Section7\DateTimeProperties\bin\Debug\netcoreapp3.1\DateTimeProperties.pdb
+C:\Projetos\UdemyCSharp\Section7\DateTimeProperties\obj\Debug\netcoreapp3.1\DateTimeProperties.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section7\DateTimeProperties\obj\Debug\netcoreapp3.1\DateTimeProperties.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section7\DateTimeProperties\obj\Debug\netcoreapp3.1\DateTimeProperties.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section7\DateTimeProperties\obj\Debug\netcoreapp3.1\DateTimeProperties.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section7\DateTimeProperties\obj\Debug\netcoreapp3.1\DateTimeProperties.dll
+C:\Projetos\UdemyCSharp\Section7\DateTimeProperties\obj\Debug\netcoreapp3.1\DateTimeProperties.pdb
+C:\Projetos\UdemyCSharp\Section7\DateTimeProperties\obj\Debug\netcoreapp3.1\DateTimeProperties.genruntimeconfig.cache
