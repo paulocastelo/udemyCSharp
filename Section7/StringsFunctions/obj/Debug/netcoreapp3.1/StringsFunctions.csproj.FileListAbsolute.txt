@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section7\StringsFunctions\bin\Debug\netcoreapp3.1\StringsFunctions.exe
+C:\Projetos\UdemyCSharp\Section7\StringsFunctions\bin\Debug\netcoreapp3.1\StringsFunctions.deps.json
+C:\Projetos\UdemyCSharp\Section7\StringsFunctions\bin\Debug\netcoreapp3.1\StringsFunctions.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section7\StringsFunctions\bin\Debug\netcoreapp3.1\StringsFunctions.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section7\StringsFunctions\bin\Debug\netcoreapp3.1\StringsFunctions.dll
+C:\Projetos\UdemyCSharp\Section7\StringsFunctions\bin\Debug\netcoreapp3.1\StringsFunctions.pdb
+C:\Projetos\UdemyCSharp\Section7\StringsFunctions\obj\Debug\netcoreapp3.1\StringsFunctions.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section7\StringsFunctions\obj\Debug\netcoreapp3.1\StringsFunctions.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section7\StringsFunctions\obj\Debug\netcoreapp3.1\StringsFunctions.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section7\StringsFunctions\obj\Debug\netcoreapp3.1\StringsFunctions.dll
+C:\Projetos\UdemyCSharp\Section7\StringsFunctions\obj\Debug\netcoreapp3.1\StringsFunctions.pdb
+C:\Projetos\UdemyCSharp\Section7\StringsFunctions\obj\Debug\netcoreapp3.1\StringsFunctions.genruntimeconfig.cache
+C:\Projetos\UdemyCSharp\Section7\StringsFunctions\obj\Debug\netcoreapp3.1\StringsFunctions.csprojAssemblyReference.cache

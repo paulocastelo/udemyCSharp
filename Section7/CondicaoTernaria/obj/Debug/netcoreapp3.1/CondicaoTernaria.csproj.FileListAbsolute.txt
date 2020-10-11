@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section7\CondicaoTernaria\bin\Debug\netcoreapp3.1\CondicaoTernaria.exe
+C:\Projetos\UdemyCSharp\Section7\CondicaoTernaria\bin\Debug\netcoreapp3.1\CondicaoTernaria.deps.json
+C:\Projetos\UdemyCSharp\Section7\CondicaoTernaria\bin\Debug\netcoreapp3.1\CondicaoTernaria.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section7\CondicaoTernaria\bin\Debug\netcoreapp3.1\CondicaoTernaria.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section7\CondicaoTernaria\bin\Debug\netcoreapp3.1\CondicaoTernaria.dll
+C:\Projetos\UdemyCSharp\Section7\CondicaoTernaria\bin\Debug\netcoreapp3.1\CondicaoTernaria.pdb
+C:\Projetos\UdemyCSharp\Section7\CondicaoTernaria\obj\Debug\netcoreapp3.1\CondicaoTernaria.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section7\CondicaoTernaria\obj\Debug\netcoreapp3.1\CondicaoTernaria.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section7\CondicaoTernaria\obj\Debug\netcoreapp3.1\CondicaoTernaria.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section7\CondicaoTernaria\obj\Debug\netcoreapp3.1\CondicaoTernaria.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section7\CondicaoTernaria\obj\Debug\netcoreapp3.1\CondicaoTernaria.dll
+C:\Projetos\UdemyCSharp\Section7\CondicaoTernaria\obj\Debug\netcoreapp3.1\CondicaoTernaria.pdb
+C:\Projetos\UdemyCSharp\Section7\CondicaoTernaria\obj\Debug\netcoreapp3.1\CondicaoTernaria.genruntimeconfig.cache
