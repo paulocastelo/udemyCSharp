@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section9\Section9\bin\Debug\netcoreapp3.1\IntermediateModule.exe
+C:\Projetos\UdemyCSharp\Section9\Section9\bin\Debug\netcoreapp3.1\IntermediateModule.deps.json
+C:\Projetos\UdemyCSharp\Section9\Section9\bin\Debug\netcoreapp3.1\IntermediateModule.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section9\Section9\bin\Debug\netcoreapp3.1\IntermediateModule.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section9\Section9\bin\Debug\netcoreapp3.1\IntermediateModule.dll
+C:\Projetos\UdemyCSharp\Section9\Section9\bin\Debug\netcoreapp3.1\IntermediateModule.pdb
+C:\Projetos\UdemyCSharp\Section9\Section9\obj\Debug\netcoreapp3.1\IntermediateModule.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section9\Section9\obj\Debug\netcoreapp3.1\IntermediateModule.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section9\Section9\obj\Debug\netcoreapp3.1\IntermediateModule.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section9\Section9\obj\Debug\netcoreapp3.1\IntermediateModule.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section9\Section9\obj\Debug\netcoreapp3.1\IntermediateModule.dll
+C:\Projetos\UdemyCSharp\Section9\Section9\obj\Debug\netcoreapp3.1\IntermediateModule.pdb
+C:\Projetos\UdemyCSharp\Section9\Section9\obj\Debug\netcoreapp3.1\IntermediateModule.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section9\WorkContract\bin\Debug\netcoreapp3.1\WorkContract.exe
+C:\Projetos\UdemyCSharp\Section9\WorkContract\bin\Debug\netcoreapp3.1\WorkContract.deps.json
+C:\Projetos\UdemyCSharp\Section9\WorkContract\bin\Debug\netcoreapp3.1\WorkContract.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section9\WorkContract\bin\Debug\netcoreapp3.1\WorkContract.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section9\WorkContract\bin\Debug\netcoreapp3.1\WorkContract.dll
+C:\Projetos\UdemyCSharp\Section9\WorkContract\bin\Debug\netcoreapp3.1\WorkContract.pdb
+C:\Projetos\UdemyCSharp\Section9\WorkContract\obj\Debug\netcoreapp3.1\WorkContract.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section9\WorkContract\obj\Debug\netcoreapp3.1\WorkContract.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section9\WorkContract\obj\Debug\netcoreapp3.1\WorkContract.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section9\WorkContract\obj\Debug\netcoreapp3.1\WorkContract.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section9\WorkContract\obj\Debug\netcoreapp3.1\WorkContract.dll
+C:\Projetos\UdemyCSharp\Section9\WorkContract\obj\Debug\netcoreapp3.1\WorkContract.pdb
+C:\Projetos\UdemyCSharp\Section9\WorkContract\obj\Debug\netcoreapp3.1\WorkContract.genruntimeconfig.cache

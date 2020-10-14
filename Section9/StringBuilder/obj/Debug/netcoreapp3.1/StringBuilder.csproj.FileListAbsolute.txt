@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section9\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.exe
+C:\Projetos\UdemyCSharp\Section9\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.deps.json
+C:\Projetos\UdemyCSharp\Section9\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section9\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section9\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.dll
+C:\Projetos\UdemyCSharp\Section9\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.pdb
+C:\Projetos\UdemyCSharp\Section9\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section9\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section9\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section9\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section9\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.dll
+C:\Projetos\UdemyCSharp\Section9\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.pdb
+C:\Projetos\UdemyCSharp\Section9\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.genruntimeconfig.cache

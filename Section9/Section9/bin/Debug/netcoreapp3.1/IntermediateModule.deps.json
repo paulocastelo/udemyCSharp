@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IntermediateModule/1.0.0": {
+        "runtime": {
+          "IntermediateModule.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntermediateModule/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
