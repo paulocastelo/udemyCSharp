@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section9\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.exe
+C:\Projetos\UdemyCSharp\Section9\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.deps.json
+C:\Projetos\UdemyCSharp\Section9\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section9\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section9\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.dll
+C:\Projetos\UdemyCSharp\Section9\ECommerce\bin\Debug\netcoreapp3.1\ECommerce.pdb
+C:\Projetos\UdemyCSharp\Section9\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section9\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section9\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section9\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section9\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.dll
+C:\Projetos\UdemyCSharp\Section9\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.pdb
+C:\Projetos\UdemyCSharp\Section9\ECommerce\obj\Debug\netcoreapp3.1\ECommerce.genruntimeconfig.cache
