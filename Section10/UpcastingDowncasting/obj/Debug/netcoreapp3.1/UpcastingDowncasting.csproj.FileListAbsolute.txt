@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section10\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.exe
+C:\Projetos\UdemyCSharp\Section10\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.deps.json
+C:\Projetos\UdemyCSharp\Section10\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section10\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section10\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.dll
+C:\Projetos\UdemyCSharp\Section10\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.pdb
+C:\Projetos\UdemyCSharp\Section10\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section10\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section10\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section10\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section10\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.dll
+C:\Projetos\UdemyCSharp\Section10\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.pdb
+C:\Projetos\UdemyCSharp\Section10\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.genruntimeconfig.cache
