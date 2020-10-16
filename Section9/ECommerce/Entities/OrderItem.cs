@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Text;
@@ -24,7 +25,7 @@ namespace ECommerce.Entities
 
         public double SubTotal()
         {
-            return Price = Quantity * Price;
+            return Quantity * Price;
         }
 
         public override string ToString()
