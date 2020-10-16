@@ -40,7 +40,7 @@ namespace UpcastingDowncasting
             Console.WriteLine("Account acc3 = new SavingsAccount(1003, Joana, 2500.00, 0.01);");
             Account acc3 = new SavingsAccount(1003, "Joana", 2500.00, 0.01);
             Console.WriteLine();
-
+            
             Console.WriteLine("Downcasting:");
             Console.WriteLine("This operation is not secure!");
             Console.WriteLine("BusinessAccount acc4 = (BusinessAccount)acc2;");
