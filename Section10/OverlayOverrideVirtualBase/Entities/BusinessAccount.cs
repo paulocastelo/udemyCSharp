@@ -1,4 +1,4 @@
-﻿namespace UpcastingDowncasting.Entities
+﻿namespace OverlayOverrideVirtualBase.Entities
 {
     class BusinessAccount : Account
     {

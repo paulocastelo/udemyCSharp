@@ -1,5 +1,4 @@
-﻿using Inheritance.Entities;
-namespace UpcastingDowncasting.Entities
+﻿namespace UpcastingDowncasting.Entities
 {
     class SavingsAccount : Account
     {

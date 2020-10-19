@@ -1,8 +1,8 @@
-﻿using System;
+﻿using OverlayOverrideVirtualBase.Entities;
+using System;
 using System.Globalization;
-using UpcastingDowncasting.Entities;
 
-namespace UpcastingDowncasting
+namespace OverlayOverrideVirtualBase
 {
     class Program
     {
@@ -39,7 +39,7 @@ namespace UpcastingDowncasting
             Console.WriteLine("Account acc3 = new SavingsAccount(1003, Joana, 2500.00, 0.01);");
             Account acc3 = new SavingsAccount(1003, "Joana", 2500.00, 0.01);
             Console.WriteLine();
-            
+
             Console.WriteLine("Downcasting:");
             Console.WriteLine("This operation is not secure!");
             Console.WriteLine("BusinessAccount acc4 = (BusinessAccount)acc2;");
@@ -48,7 +48,7 @@ namespace UpcastingDowncasting
             Console.WriteLine("BusinessAccount acc5 = (BusinessAccount)acc3; --> ERROR");
             Console.WriteLine();
 
-            if(acc3 is BusinessAccount)
+            if (acc3 is BusinessAccount)
             {
                 BusinessAccount acc5 = (BusinessAccount)acc3;
                 acc5.Loan(200.0);
