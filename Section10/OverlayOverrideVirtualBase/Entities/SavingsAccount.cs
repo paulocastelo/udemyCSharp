@@ -1,7 +1,7 @@
 ﻿using OverlayOverrideVirtualBase.Entities;
 namespace OverlayOverrideVirtualBase.Entities
 {
-    class SavingsAccount : Account
+    sealed class SavingsAccount : Account       //SEALED DO NOT PERMITS INHERITANCE
     {
         public double InterestRate { get; set; }
 
@@ -17,7 +17,7 @@ namespace OverlayOverrideVirtualBase.Entities
             Balance += Balance * InterestRate;
         }
 
-        public override void WithDraw(double amount)
+        public sealed override void WithDraw(double amount) //SEALED DO NOT PERMITS INHERITANCE
         {
             //Balance -= amount;        //Overriding method with no discount
             base.WithDraw(amount);      //Using part of existing method
