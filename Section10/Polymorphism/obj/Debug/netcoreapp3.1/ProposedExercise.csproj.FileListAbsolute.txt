@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section10\Polymorphism\bin\Debug\netcoreapp3.1\ProposedExercise.exe
+C:\Projetos\UdemyCSharp\Section10\Polymorphism\bin\Debug\netcoreapp3.1\ProposedExercise.deps.json
+C:\Projetos\UdemyCSharp\Section10\Polymorphism\bin\Debug\netcoreapp3.1\ProposedExercise.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section10\Polymorphism\bin\Debug\netcoreapp3.1\ProposedExercise.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section10\Polymorphism\bin\Debug\netcoreapp3.1\ProposedExercise.dll
+C:\Projetos\UdemyCSharp\Section10\Polymorphism\bin\Debug\netcoreapp3.1\ProposedExercise.pdb
+C:\Projetos\UdemyCSharp\Section10\Polymorphism\obj\Debug\netcoreapp3.1\ProposedExercise.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section10\Polymorphism\obj\Debug\netcoreapp3.1\ProposedExercise.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section10\Polymorphism\obj\Debug\netcoreapp3.1\ProposedExercise.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section10\Polymorphism\obj\Debug\netcoreapp3.1\ProposedExercise.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section10\Polymorphism\obj\Debug\netcoreapp3.1\ProposedExercise.dll
+C:\Projetos\UdemyCSharp\Section10\Polymorphism\obj\Debug\netcoreapp3.1\ProposedExercise.pdb
+C:\Projetos\UdemyCSharp\Section10\Polymorphism\obj\Debug\netcoreapp3.1\ProposedExercise.genruntimeconfig.cache
