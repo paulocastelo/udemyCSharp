@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section10\AbstractClassAndMethods\obj\Debug\netcoreapp3.1\AbstractClassAndMethods.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section10\AbstractClassAndMethods\obj\Debug\netcoreapp3.1\AbstractClassAndMethods.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section10\AbstractClassAndMethods\obj\Debug\netcoreapp3.1\AbstractClassAndMethods.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section10\AbstractClassAndMethods\obj\Debug\netcoreapp3.1\AbstractClassAndMethods.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section10\AbstractClassAndMethods\bin\Debug\netcoreapp3.1\AbstractClassAndMethods.exe
+C:\Projetos\UdemyCSharp\Section10\AbstractClassAndMethods\bin\Debug\netcoreapp3.1\AbstractClassAndMethods.deps.json
+C:\Projetos\UdemyCSharp\Section10\AbstractClassAndMethods\bin\Debug\netcoreapp3.1\AbstractClassAndMethods.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section10\AbstractClassAndMethods\bin\Debug\netcoreapp3.1\AbstractClassAndMethods.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section10\AbstractClassAndMethods\bin\Debug\netcoreapp3.1\AbstractClassAndMethods.dll
+C:\Projetos\UdemyCSharp\Section10\AbstractClassAndMethods\bin\Debug\netcoreapp3.1\AbstractClassAndMethods.pdb
+C:\Projetos\UdemyCSharp\Section10\AbstractClassAndMethods\obj\Debug\netcoreapp3.1\AbstractClassAndMethods.dll
+C:\Projetos\UdemyCSharp\Section10\AbstractClassAndMethods\obj\Debug\netcoreapp3.1\AbstractClassAndMethods.pdb
+C:\Projetos\UdemyCSharp\Section10\AbstractClassAndMethods\obj\Debug\netcoreapp3.1\AbstractClassAndMethods.genruntimeconfig.cache

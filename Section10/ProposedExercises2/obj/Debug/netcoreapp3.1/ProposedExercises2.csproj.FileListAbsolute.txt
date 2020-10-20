@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section10\ProposedExercises2\bin\Debug\netcoreapp3.1\ProposedExercises2.exe
+C:\Projetos\UdemyCSharp\Section10\ProposedExercises2\bin\Debug\netcoreapp3.1\ProposedExercises2.deps.json
+C:\Projetos\UdemyCSharp\Section10\ProposedExercises2\bin\Debug\netcoreapp3.1\ProposedExercises2.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section10\ProposedExercises2\bin\Debug\netcoreapp3.1\ProposedExercises2.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section10\ProposedExercises2\bin\Debug\netcoreapp3.1\ProposedExercises2.dll
+C:\Projetos\UdemyCSharp\Section10\ProposedExercises2\bin\Debug\netcoreapp3.1\ProposedExercises2.pdb
+C:\Projetos\UdemyCSharp\Section10\ProposedExercises2\obj\Debug\netcoreapp3.1\ProposedExercises2.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section10\ProposedExercises2\obj\Debug\netcoreapp3.1\ProposedExercises2.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section10\ProposedExercises2\obj\Debug\netcoreapp3.1\ProposedExercises2.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section10\ProposedExercises2\obj\Debug\netcoreapp3.1\ProposedExercises2.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section10\ProposedExercises2\obj\Debug\netcoreapp3.1\ProposedExercises2.dll
+C:\Projetos\UdemyCSharp\Section10\ProposedExercises2\obj\Debug\netcoreapp3.1\ProposedExercises2.pdb
+C:\Projetos\UdemyCSharp\Section10\ProposedExercises2\obj\Debug\netcoreapp3.1\ProposedExercises2.genruntimeconfig.cache
