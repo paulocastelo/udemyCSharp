@@ -1,0 +1,12 @@
+C:\Users\PauloC\source\repos\Section11\Exceptions\bin\Debug\netcoreapp3.1\ExceptionsTryCatchFinally.exe
+C:\Users\PauloC\source\repos\Section11\Exceptions\bin\Debug\netcoreapp3.1\ExceptionsTryCatchFinally.deps.json
+C:\Users\PauloC\source\repos\Section11\Exceptions\bin\Debug\netcoreapp3.1\ExceptionsTryCatchFinally.runtimeconfig.json
+C:\Users\PauloC\source\repos\Section11\Exceptions\bin\Debug\netcoreapp3.1\ExceptionsTryCatchFinally.runtimeconfig.dev.json
+C:\Users\PauloC\source\repos\Section11\Exceptions\bin\Debug\netcoreapp3.1\ExceptionsTryCatchFinally.dll
+C:\Users\PauloC\source\repos\Section11\Exceptions\bin\Debug\netcoreapp3.1\ExceptionsTryCatchFinally.pdb
+C:\Users\PauloC\source\repos\Section11\Exceptions\obj\Debug\netcoreapp3.1\ExceptionsTryCatchFinally.AssemblyInfoInputs.cache
+C:\Users\PauloC\source\repos\Section11\Exceptions\obj\Debug\netcoreapp3.1\ExceptionsTryCatchFinally.AssemblyInfo.cs
+C:\Users\PauloC\source\repos\Section11\Exceptions\obj\Debug\netcoreapp3.1\ExceptionsTryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\PauloC\source\repos\Section11\Exceptions\obj\Debug\netcoreapp3.1\ExceptionsTryCatchFinally.dll
+C:\Users\PauloC\source\repos\Section11\Exceptions\obj\Debug\netcoreapp3.1\ExceptionsTryCatchFinally.pdb
+C:\Users\PauloC\source\repos\Section11\Exceptions\obj\Debug\netcoreapp3.1\ExceptionsTryCatchFinally.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\PauloC\source\repos\Section11\CustomException\bin\Debug\netcoreapp3.1\CustomException.exe
+C:\Users\PauloC\source\repos\Section11\CustomException\bin\Debug\netcoreapp3.1\CustomException.deps.json
+C:\Users\PauloC\source\repos\Section11\CustomException\bin\Debug\netcoreapp3.1\CustomException.runtimeconfig.json
+C:\Users\PauloC\source\repos\Section11\CustomException\bin\Debug\netcoreapp3.1\CustomException.runtimeconfig.dev.json
+C:\Users\PauloC\source\repos\Section11\CustomException\bin\Debug\netcoreapp3.1\CustomException.dll
+C:\Users\PauloC\source\repos\Section11\CustomException\bin\Debug\netcoreapp3.1\CustomException.pdb
+C:\Users\PauloC\source\repos\Section11\CustomException\obj\Debug\netcoreapp3.1\CustomException.csprojAssemblyReference.cache
+C:\Users\PauloC\source\repos\Section11\CustomException\obj\Debug\netcoreapp3.1\CustomException.AssemblyInfoInputs.cache
+C:\Users\PauloC\source\repos\Section11\CustomException\obj\Debug\netcoreapp3.1\CustomException.AssemblyInfo.cs
+C:\Users\PauloC\source\repos\Section11\CustomException\obj\Debug\netcoreapp3.1\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\PauloC\source\repos\Section11\CustomException\obj\Debug\netcoreapp3.1\CustomException.dll
+C:\Users\PauloC\source\repos\Section11\CustomException\obj\Debug\netcoreapp3.1\CustomException.pdb
+C:\Users\PauloC\source\repos\Section11\CustomException\obj\Debug\netcoreapp3.1\CustomException.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\PauloC\source\repos\Section11\Exceptions\bin\Debug\netcoreapp3.1\ExceptionsTryCatch.exe
+C:\Users\PauloC\source\repos\Section11\Exceptions\bin\Debug\netcoreapp3.1\ExceptionsTryCatch.deps.json
+C:\Users\PauloC\source\repos\Section11\Exceptions\bin\Debug\netcoreapp3.1\ExceptionsTryCatch.runtimeconfig.json
+C:\Users\PauloC\source\repos\Section11\Exceptions\bin\Debug\netcoreapp3.1\ExceptionsTryCatch.runtimeconfig.dev.json
+C:\Users\PauloC\source\repos\Section11\Exceptions\bin\Debug\netcoreapp3.1\ExceptionsTryCatch.dll
+C:\Users\PauloC\source\repos\Section11\Exceptions\bin\Debug\netcoreapp3.1\ExceptionsTryCatch.pdb
+C:\Users\PauloC\source\repos\Section11\Exceptions\obj\Debug\netcoreapp3.1\ExceptionsTryCatch.AssemblyInfoInputs.cache
+C:\Users\PauloC\source\repos\Section11\Exceptions\obj\Debug\netcoreapp3.1\ExceptionsTryCatch.AssemblyInfo.cs
+C:\Users\PauloC\source\repos\Section11\Exceptions\obj\Debug\netcoreapp3.1\ExceptionsTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\PauloC\source\repos\Section11\Exceptions\obj\Debug\netcoreapp3.1\ExceptionsTryCatch.dll
+C:\Users\PauloC\source\repos\Section11\Exceptions\obj\Debug\netcoreapp3.1\ExceptionsTryCatch.pdb
+C:\Users\PauloC\source\repos\Section11\Exceptions\obj\Debug\netcoreapp3.1\ExceptionsTryCatch.genruntimeconfig.cache
