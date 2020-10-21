@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\UdemyCSharp\\Section11\\Exceptions\\ExceptionsTryCatchFinally.csproj",
-      "projectName": "ExceptionsTryCatchFinally",
-      "projectPath": "C:\\Projetos\\UdemyCSharp\\Section11\\Exceptions\\ExceptionsTryCatchFinally.csproj",
+      "projectUniqueName": "C:\\Projetos\\UdemyCSharp\\Section11\\FixationExercise\\FixationExercise.csproj",
+      "projectName": "FixationExercise",
+      "projectPath": "C:\\Projetos\\UdemyCSharp\\Section11\\FixationExercise\\FixationExercise.csproj",
       "packagesPath": "C:\\Users\\PauloC\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\UdemyCSharp\\Section11\\Exceptions\\obj\\",
+      "outputPath": "C:\\Projetos\\UdemyCSharp\\Section11\\FixationExercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PauloC\\AppData\\Roaming\\NuGet\\NuGet.Config",

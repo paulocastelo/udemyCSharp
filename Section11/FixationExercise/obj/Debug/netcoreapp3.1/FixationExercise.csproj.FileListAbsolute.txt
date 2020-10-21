@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section11\FixationExercise\bin\Debug\netcoreapp3.1\FixationExercise.exe
+C:\Projetos\UdemyCSharp\Section11\FixationExercise\bin\Debug\netcoreapp3.1\FixationExercise.deps.json
+C:\Projetos\UdemyCSharp\Section11\FixationExercise\bin\Debug\netcoreapp3.1\FixationExercise.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section11\FixationExercise\bin\Debug\netcoreapp3.1\FixationExercise.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section11\FixationExercise\bin\Debug\netcoreapp3.1\FixationExercise.dll
+C:\Projetos\UdemyCSharp\Section11\FixationExercise\bin\Debug\netcoreapp3.1\FixationExercise.pdb
+C:\Projetos\UdemyCSharp\Section11\FixationExercise\obj\Debug\netcoreapp3.1\FixationExercise.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section11\FixationExercise\obj\Debug\netcoreapp3.1\FixationExercise.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section11\FixationExercise\obj\Debug\netcoreapp3.1\FixationExercise.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section11\FixationExercise\obj\Debug\netcoreapp3.1\FixationExercise.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section11\FixationExercise\obj\Debug\netcoreapp3.1\FixationExercise.dll
+C:\Projetos\UdemyCSharp\Section11\FixationExercise\obj\Debug\netcoreapp3.1\FixationExercise.pdb
+C:\Projetos\UdemyCSharp\Section11\FixationExercise\obj\Debug\netcoreapp3.1\FixationExercise.genruntimeconfig.cache
