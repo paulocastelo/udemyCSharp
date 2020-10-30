@@ -1,0 +1,13 @@
+C:\Users\PauloC\source\repos\Section13\FIlesSection\bin\Debug\netcoreapp3.1\FIlesSection.exe
+C:\Users\PauloC\source\repos\Section13\FIlesSection\bin\Debug\netcoreapp3.1\FIlesSection.deps.json
+C:\Users\PauloC\source\repos\Section13\FIlesSection\bin\Debug\netcoreapp3.1\FIlesSection.runtimeconfig.json
+C:\Users\PauloC\source\repos\Section13\FIlesSection\bin\Debug\netcoreapp3.1\FIlesSection.runtimeconfig.dev.json
+C:\Users\PauloC\source\repos\Section13\FIlesSection\bin\Debug\netcoreapp3.1\FIlesSection.dll
+C:\Users\PauloC\source\repos\Section13\FIlesSection\bin\Debug\netcoreapp3.1\FIlesSection.pdb
+C:\Users\PauloC\source\repos\Section13\FIlesSection\obj\Debug\netcoreapp3.1\FIlesSection.csprojAssemblyReference.cache
+C:\Users\PauloC\source\repos\Section13\FIlesSection\obj\Debug\netcoreapp3.1\FIlesSection.AssemblyInfoInputs.cache
+C:\Users\PauloC\source\repos\Section13\FIlesSection\obj\Debug\netcoreapp3.1\FIlesSection.AssemblyInfo.cs
+C:\Users\PauloC\source\repos\Section13\FIlesSection\obj\Debug\netcoreapp3.1\FIlesSection.csproj.CoreCompileInputs.cache
+C:\Users\PauloC\source\repos\Section13\FIlesSection\obj\Debug\netcoreapp3.1\FIlesSection.dll
+C:\Users\PauloC\source\repos\Section13\FIlesSection\obj\Debug\netcoreapp3.1\FIlesSection.pdb
+C:\Users\PauloC\source\repos\Section13\FIlesSection\obj\Debug\netcoreapp3.1\FIlesSection.genruntimeconfig.cache
