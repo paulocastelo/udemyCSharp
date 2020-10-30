@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilestreamStreamreader", "F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingBlocks", "UsingBlocks\UsingBlocks.csproj", "{C25C5822-798A-4441-9A62-C97FB87C3A59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamWriterFile", "StreamWriterFile\StreamWriterFile.csproj", "{EB00B1AD-2D97-4E48-9C96-CE386DE76642}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C25C5822-798A-4441-9A62-C97FB87C3A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C25C5822-798A-4441-9A62-C97FB87C3A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C25C5822-798A-4441-9A62-C97FB87C3A59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB00B1AD-2D97-4E48-9C96-CE386DE76642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB00B1AD-2D97-4E48-9C96-CE386DE76642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB00B1AD-2D97-4E48-9C96-CE386DE76642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB00B1AD-2D97-4E48-9C96-CE386DE76642}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
