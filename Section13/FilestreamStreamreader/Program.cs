@@ -24,7 +24,7 @@ namespace FilestreamStreamreader
             catch (IOException e)
             {
                 Console.WriteLine("An error has occurred!");
-                Console.WriteLine(e);
+                Console.WriteLine(e.Message);
             }
             finally
             {
