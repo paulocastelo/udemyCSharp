@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section13\FIlesSection\bin\Debug\netcoreapp3.1\FIleInfoAndFile.exe
+C:\Projetos\UdemyCSharp\Section13\FIlesSection\bin\Debug\netcoreapp3.1\FIleInfoAndFile.deps.json
+C:\Projetos\UdemyCSharp\Section13\FIlesSection\bin\Debug\netcoreapp3.1\FIleInfoAndFile.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section13\FIlesSection\bin\Debug\netcoreapp3.1\FIleInfoAndFile.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section13\FIlesSection\bin\Debug\netcoreapp3.1\FIleInfoAndFile.dll
+C:\Projetos\UdemyCSharp\Section13\FIlesSection\bin\Debug\netcoreapp3.1\FIleInfoAndFile.pdb
+C:\Projetos\UdemyCSharp\Section13\FIlesSection\obj\Debug\netcoreapp3.1\FIleInfoAndFile.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section13\FIlesSection\obj\Debug\netcoreapp3.1\FIleInfoAndFile.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section13\FIlesSection\obj\Debug\netcoreapp3.1\FIleInfoAndFile.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section13\FIlesSection\obj\Debug\netcoreapp3.1\FIleInfoAndFile.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section13\FIlesSection\obj\Debug\netcoreapp3.1\FIleInfoAndFile.dll
+C:\Projetos\UdemyCSharp\Section13\FIlesSection\obj\Debug\netcoreapp3.1\FIleInfoAndFile.pdb
+C:\Projetos\UdemyCSharp\Section13\FIlesSection\obj\Debug\netcoreapp3.1\FIleInfoAndFile.genruntimeconfig.cache

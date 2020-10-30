@@ -50,7 +50,7 @@ namespace FIlesSection
             }
             catch (IOException e)
             {
-                Console.WriteLine("An error occured");
+                Console.WriteLine("An error occurred");
                 Console.WriteLine(e);
             }
         }

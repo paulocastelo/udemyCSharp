@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\UdemyCSharp\\Section13\\FIlesSection\\FIleInfoAndFile.csproj",
-      "projectName": "FIleInfoAndFile",
-      "projectPath": "C:\\Projetos\\UdemyCSharp\\Section13\\FIlesSection\\FIleInfoAndFile.csproj",
+      "projectUniqueName": "C:\\Projetos\\UdemyCSharp\\Section13\\FilestreamStreamreader\\FilestreamStreamreader.csproj",
+      "projectName": "FilestreamStreamreader",
+      "projectPath": "C:\\Projetos\\UdemyCSharp\\Section13\\FilestreamStreamreader\\FilestreamStreamreader.csproj",
       "packagesPath": "C:\\Users\\PauloC\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\UdemyCSharp\\Section13\\FIlesSection\\obj\\",
+      "outputPath": "C:\\Projetos\\UdemyCSharp\\Section13\\FilestreamStreamreader\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PauloC\\AppData\\Roaming\\NuGet\\NuGet.Config",
