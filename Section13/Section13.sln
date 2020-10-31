@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryAndDiretoryInfo", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassPath", "ClassPath\ClassPath.csproj", "{5AA9961E-6F07-41E3-B011-0412C2592089}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixationExercise", "FixationExercise\FixationExercise.csproj", "{AD56ACB7-3CED-46D0-A0AC-26FF3DD4D75F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{5AA9961E-6F07-41E3-B011-0412C2592089}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AA9961E-6F07-41E3-B011-0412C2592089}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AA9961E-6F07-41E3-B011-0412C2592089}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD56ACB7-3CED-46D0-A0AC-26FF3DD4D75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD56ACB7-3CED-46D0-A0AC-26FF3DD4D75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD56ACB7-3CED-46D0-A0AC-26FF3DD4D75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD56ACB7-3CED-46D0-A0AC-26FF3DD4D75F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
