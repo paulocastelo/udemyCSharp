@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section13\DirectoryAndDiretoryInfo\bin\Debug\netcoreapp3.1\DirectoryAndDiretoryInfo.exe
+C:\Projetos\UdemyCSharp\Section13\DirectoryAndDiretoryInfo\bin\Debug\netcoreapp3.1\DirectoryAndDiretoryInfo.deps.json
+C:\Projetos\UdemyCSharp\Section13\DirectoryAndDiretoryInfo\bin\Debug\netcoreapp3.1\DirectoryAndDiretoryInfo.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section13\DirectoryAndDiretoryInfo\bin\Debug\netcoreapp3.1\DirectoryAndDiretoryInfo.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section13\DirectoryAndDiretoryInfo\bin\Debug\netcoreapp3.1\DirectoryAndDiretoryInfo.dll
+C:\Projetos\UdemyCSharp\Section13\DirectoryAndDiretoryInfo\bin\Debug\netcoreapp3.1\DirectoryAndDiretoryInfo.pdb
+C:\Projetos\UdemyCSharp\Section13\DirectoryAndDiretoryInfo\obj\Debug\netcoreapp3.1\DirectoryAndDiretoryInfo.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section13\DirectoryAndDiretoryInfo\obj\Debug\netcoreapp3.1\DirectoryAndDiretoryInfo.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section13\DirectoryAndDiretoryInfo\obj\Debug\netcoreapp3.1\DirectoryAndDiretoryInfo.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section13\DirectoryAndDiretoryInfo\obj\Debug\netcoreapp3.1\DirectoryAndDiretoryInfo.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section13\DirectoryAndDiretoryInfo\obj\Debug\netcoreapp3.1\DirectoryAndDiretoryInfo.dll
+C:\Projetos\UdemyCSharp\Section13\DirectoryAndDiretoryInfo\obj\Debug\netcoreapp3.1\DirectoryAndDiretoryInfo.pdb
+C:\Projetos\UdemyCSharp\Section13\DirectoryAndDiretoryInfo\obj\Debug\netcoreapp3.1\DirectoryAndDiretoryInfo.genruntimeconfig.cache
