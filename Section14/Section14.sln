@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section14ContractInheritanc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section14MultipleInheritance", "Section14MultipleInheritance\Section14MultipleInheritance.csproj", "{A2A9780D-B44E-41E6-AD5B-E1883805733B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section14IComparable", "Section14IComparable\Section14IComparable.csproj", "{64E24ECF-8508-4DE5-8195-3D35219086FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A2A9780D-B44E-41E6-AD5B-E1883805733B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2A9780D-B44E-41E6-AD5B-E1883805733B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2A9780D-B44E-41E6-AD5B-E1883805733B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64E24ECF-8508-4DE5-8195-3D35219086FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E24ECF-8508-4DE5-8195-3D35219086FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E24ECF-8508-4DE5-8195-3D35219086FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E24ECF-8508-4DE5-8195-3D35219086FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

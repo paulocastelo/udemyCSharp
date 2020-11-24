@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section14\Section14IComparable\bin\Debug\netcoreapp3.1\Section14IComparable.exe
+C:\Projetos\UdemyCSharp\Section14\Section14IComparable\bin\Debug\netcoreapp3.1\Section14IComparable.deps.json
+C:\Projetos\UdemyCSharp\Section14\Section14IComparable\bin\Debug\netcoreapp3.1\Section14IComparable.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section14\Section14IComparable\bin\Debug\netcoreapp3.1\Section14IComparable.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section14\Section14IComparable\bin\Debug\netcoreapp3.1\Section14IComparable.dll
+C:\Projetos\UdemyCSharp\Section14\Section14IComparable\bin\Debug\netcoreapp3.1\Section14IComparable.pdb
+C:\Projetos\UdemyCSharp\Section14\Section14IComparable\obj\Debug\netcoreapp3.1\Section14IComparable.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section14\Section14IComparable\obj\Debug\netcoreapp3.1\Section14IComparable.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section14\Section14IComparable\obj\Debug\netcoreapp3.1\Section14IComparable.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section14\Section14IComparable\obj\Debug\netcoreapp3.1\Section14IComparable.dll
+C:\Projetos\UdemyCSharp\Section14\Section14IComparable\obj\Debug\netcoreapp3.1\Section14IComparable.pdb
+C:\Projetos\UdemyCSharp\Section14\Section14IComparable\obj\Debug\netcoreapp3.1\Section14IComparable.genruntimeconfig.cache
+C:\Projetos\UdemyCSharp\Section14\Section14IComparable\obj\Debug\netcoreapp3.1\Section14IComparable.csprojAssemblyReference.cache
