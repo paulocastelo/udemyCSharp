@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section14\Section14ContractInheritance\bin\Debug\netcoreapp3.1\Section14ContractInheritance.exe
+C:\Projetos\UdemyCSharp\Section14\Section14ContractInheritance\bin\Debug\netcoreapp3.1\Section14ContractInheritance.deps.json
+C:\Projetos\UdemyCSharp\Section14\Section14ContractInheritance\bin\Debug\netcoreapp3.1\Section14ContractInheritance.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section14\Section14ContractInheritance\bin\Debug\netcoreapp3.1\Section14ContractInheritance.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section14\Section14ContractInheritance\bin\Debug\netcoreapp3.1\Section14ContractInheritance.dll
+C:\Projetos\UdemyCSharp\Section14\Section14ContractInheritance\bin\Debug\netcoreapp3.1\Section14ContractInheritance.pdb
+C:\Projetos\UdemyCSharp\Section14\Section14ContractInheritance\obj\Debug\netcoreapp3.1\Section14ContractInheritance.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section14\Section14ContractInheritance\obj\Debug\netcoreapp3.1\Section14ContractInheritance.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section14\Section14ContractInheritance\obj\Debug\netcoreapp3.1\Section14ContractInheritance.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section14\Section14ContractInheritance\obj\Debug\netcoreapp3.1\Section14ContractInheritance.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section14\Section14ContractInheritance\obj\Debug\netcoreapp3.1\Section14ContractInheritance.dll
+C:\Projetos\UdemyCSharp\Section14\Section14ContractInheritance\obj\Debug\netcoreapp3.1\Section14ContractInheritance.pdb
+C:\Projetos\UdemyCSharp\Section14\Section14ContractInheritance\obj\Debug\netcoreapp3.1\Section14ContractInheritance.genruntimeconfig.cache

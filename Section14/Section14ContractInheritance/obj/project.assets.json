@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\UdemyCSharp\\Section14\\S14Interfaces\\S14Interfaces.csproj",
-      "projectName": "S14Interfaces",
-      "projectPath": "C:\\Projetos\\UdemyCSharp\\Section14\\S14Interfaces\\S14Interfaces.csproj",
+      "projectUniqueName": "C:\\Projetos\\UdemyCSharp\\Section14\\Section14ContractInheritance\\Section14ContractInheritance.csproj",
+      "projectName": "Section14ContractInheritance",
+      "projectPath": "C:\\Projetos\\UdemyCSharp\\Section14\\Section14ContractInheritance\\Section14ContractInheritance.csproj",
       "packagesPath": "C:\\Users\\PauloC\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\UdemyCSharp\\Section14\\S14Interfaces\\obj\\",
+      "outputPath": "C:\\Projetos\\UdemyCSharp\\Section14\\Section14ContractInheritance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PauloC\\AppData\\Roaming\\NuGet\\NuGet.Config",

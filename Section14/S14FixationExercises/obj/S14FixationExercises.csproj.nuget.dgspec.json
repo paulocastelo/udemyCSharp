@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\UdemyCSharp\\Section14\\S14Interfaces\\S14Interfaces.csproj": {}
+    "C:\\Projetos\\UdemyCSharp\\Section14\\S14FixationExercises\\S14FixationExercises.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\UdemyCSharp\\Section14\\S14Interfaces\\S14Interfaces.csproj": {
+    "C:\\Projetos\\UdemyCSharp\\Section14\\S14FixationExercises\\S14FixationExercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\UdemyCSharp\\Section14\\S14Interfaces\\S14Interfaces.csproj",
-        "projectName": "S14Interfaces",
-        "projectPath": "C:\\Projetos\\UdemyCSharp\\Section14\\S14Interfaces\\S14Interfaces.csproj",
+        "projectUniqueName": "C:\\Projetos\\UdemyCSharp\\Section14\\S14FixationExercises\\S14FixationExercises.csproj",
+        "projectName": "S14FixationExercises",
+        "projectPath": "C:\\Projetos\\UdemyCSharp\\Section14\\S14FixationExercises\\S14FixationExercises.csproj",
         "packagesPath": "C:\\Users\\PauloC\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\UdemyCSharp\\Section14\\S14Interfaces\\obj\\",
+        "outputPath": "C:\\Projetos\\UdemyCSharp\\Section14\\S14FixationExercises\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PauloC\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section14\S14FixationExercises\bin\Debug\netcoreapp3.1\S14FixationExercises.exe
+C:\Projetos\UdemyCSharp\Section14\S14FixationExercises\bin\Debug\netcoreapp3.1\S14FixationExercises.deps.json
+C:\Projetos\UdemyCSharp\Section14\S14FixationExercises\bin\Debug\netcoreapp3.1\S14FixationExercises.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section14\S14FixationExercises\bin\Debug\netcoreapp3.1\S14FixationExercises.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section14\S14FixationExercises\bin\Debug\netcoreapp3.1\S14FixationExercises.dll
+C:\Projetos\UdemyCSharp\Section14\S14FixationExercises\bin\Debug\netcoreapp3.1\S14FixationExercises.pdb
+C:\Projetos\UdemyCSharp\Section14\S14FixationExercises\obj\Debug\netcoreapp3.1\S14FixationExercises.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section14\S14FixationExercises\obj\Debug\netcoreapp3.1\S14FixationExercises.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section14\S14FixationExercises\obj\Debug\netcoreapp3.1\S14FixationExercises.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section14\S14FixationExercises\obj\Debug\netcoreapp3.1\S14FixationExercises.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section14\S14FixationExercises\obj\Debug\netcoreapp3.1\S14FixationExercises.dll
+C:\Projetos\UdemyCSharp\Section14\S14FixationExercises\obj\Debug\netcoreapp3.1\S14FixationExercises.pdb
+C:\Projetos\UdemyCSharp\Section14\S14FixationExercises\obj\Debug\netcoreapp3.1\S14FixationExercises.genruntimeconfig.cache
