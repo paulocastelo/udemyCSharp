@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section15\Section15GenericsRestriction\bin\Debug\netcoreapp3.1\Section15GenericsRestriction.exe
+C:\Projetos\UdemyCSharp\Section15\Section15GenericsRestriction\bin\Debug\netcoreapp3.1\Section15GenericsRestriction.deps.json
+C:\Projetos\UdemyCSharp\Section15\Section15GenericsRestriction\bin\Debug\netcoreapp3.1\Section15GenericsRestriction.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section15\Section15GenericsRestriction\bin\Debug\netcoreapp3.1\Section15GenericsRestriction.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section15\Section15GenericsRestriction\bin\Debug\netcoreapp3.1\Section15GenericsRestriction.dll
+C:\Projetos\UdemyCSharp\Section15\Section15GenericsRestriction\bin\Debug\netcoreapp3.1\Section15GenericsRestriction.pdb
+C:\Projetos\UdemyCSharp\Section15\Section15GenericsRestriction\obj\Debug\netcoreapp3.1\Section15GenericsRestriction.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section15\Section15GenericsRestriction\obj\Debug\netcoreapp3.1\Section15GenericsRestriction.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section15\Section15GenericsRestriction\obj\Debug\netcoreapp3.1\Section15GenericsRestriction.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section15\Section15GenericsRestriction\obj\Debug\netcoreapp3.1\Section15GenericsRestriction.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section15\Section15GenericsRestriction\obj\Debug\netcoreapp3.1\Section15GenericsRestriction.dll
+C:\Projetos\UdemyCSharp\Section15\Section15GenericsRestriction\obj\Debug\netcoreapp3.1\Section15GenericsRestriction.pdb
+C:\Projetos\UdemyCSharp\Section15\Section15GenericsRestriction\obj\Debug\netcoreapp3.1\Section15GenericsRestriction.genruntimeconfig.cache
