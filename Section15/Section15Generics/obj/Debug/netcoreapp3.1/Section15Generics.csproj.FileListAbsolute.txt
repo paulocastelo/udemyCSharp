@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section15\Section15Generics\bin\Debug\netcoreapp3.1\Section15Generics.exe
+C:\Projetos\UdemyCSharp\Section15\Section15Generics\bin\Debug\netcoreapp3.1\Section15Generics.deps.json
+C:\Projetos\UdemyCSharp\Section15\Section15Generics\bin\Debug\netcoreapp3.1\Section15Generics.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section15\Section15Generics\bin\Debug\netcoreapp3.1\Section15Generics.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section15\Section15Generics\bin\Debug\netcoreapp3.1\Section15Generics.dll
+C:\Projetos\UdemyCSharp\Section15\Section15Generics\bin\Debug\netcoreapp3.1\Section15Generics.pdb
+C:\Projetos\UdemyCSharp\Section15\Section15Generics\obj\Debug\netcoreapp3.1\Section15Generics.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section15\Section15Generics\obj\Debug\netcoreapp3.1\Section15Generics.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section15\Section15Generics\obj\Debug\netcoreapp3.1\Section15Generics.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section15\Section15Generics\obj\Debug\netcoreapp3.1\Section15Generics.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section15\Section15Generics\obj\Debug\netcoreapp3.1\Section15Generics.dll
+C:\Projetos\UdemyCSharp\Section15\Section15Generics\obj\Debug\netcoreapp3.1\Section15Generics.pdb
+C:\Projetos\UdemyCSharp\Section15\Section15Generics\obj\Debug\netcoreapp3.1\Section15Generics.genruntimeconfig.cache

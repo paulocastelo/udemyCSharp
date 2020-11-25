@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Section15Generics/1.0.0": {
+        "runtime": {
+          "Section15Generics.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Section15Generics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
