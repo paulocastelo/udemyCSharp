@@ -1,12 +1,14 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace Section15Generics
 {
-    class PrintService<T>
+    class PrintServiceString
     {
-        private T[] _values = new T[10];
+        private string[] _values = new string[10];
         public int _count = 0;
-        public void AddValue(T value)
+        public void AddValue(string value)
         {
             if (_count == 10)
             {
@@ -15,7 +17,7 @@ namespace Section15Generics
             _values[_count] = value;
             _count++;
         }
-        public object first()
+        public string first()
         {
             if (_count == 0)
             {

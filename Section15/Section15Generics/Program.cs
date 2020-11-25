@@ -6,7 +6,7 @@ namespace Section15Generics
     {
         static void Main(string[] args)
         {
-            PrintService printService = new PrintService();
+            PrintService<string> printService = new PrintService<string>();
             Console.Write("How many values: ");
             int n = int.Parse(Console.ReadLine());
 
@@ -18,6 +18,19 @@ namespace Section15Generics
 
             printService.Print();
             Console.WriteLine("First: " + printService.first());
+
+            PrintService<int> printService2 = new PrintService<int>();
+            Console.Write("How many values: ");
+            string s = Console.ReadLine();
+
+            for (int i = 0; i < n; i++)
+            {
+                int x = int.Parse(Console.ReadLine());
+                printService2.AddValue(x);
+            }
+
+            printService2.Print();
+            Console.WriteLine("First: " + printService2.first());
         }
     }
 }
