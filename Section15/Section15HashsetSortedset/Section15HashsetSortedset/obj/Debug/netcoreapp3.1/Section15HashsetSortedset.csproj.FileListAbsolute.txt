@@ -1,0 +1,12 @@
+C:\Projetos\UdemyCSharp\Section15HashsetSortedset\Section15HashsetSortedset\bin\Debug\netcoreapp3.1\Section15HashsetSortedset.exe
+C:\Projetos\UdemyCSharp\Section15HashsetSortedset\Section15HashsetSortedset\bin\Debug\netcoreapp3.1\Section15HashsetSortedset.deps.json
+C:\Projetos\UdemyCSharp\Section15HashsetSortedset\Section15HashsetSortedset\bin\Debug\netcoreapp3.1\Section15HashsetSortedset.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section15HashsetSortedset\Section15HashsetSortedset\bin\Debug\netcoreapp3.1\Section15HashsetSortedset.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section15HashsetSortedset\Section15HashsetSortedset\bin\Debug\netcoreapp3.1\Section15HashsetSortedset.dll
+C:\Projetos\UdemyCSharp\Section15HashsetSortedset\Section15HashsetSortedset\bin\Debug\netcoreapp3.1\Section15HashsetSortedset.pdb
+C:\Projetos\UdemyCSharp\Section15HashsetSortedset\Section15HashsetSortedset\obj\Debug\netcoreapp3.1\Section15HashsetSortedset.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section15HashsetSortedset\Section15HashsetSortedset\obj\Debug\netcoreapp3.1\Section15HashsetSortedset.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section15HashsetSortedset\Section15HashsetSortedset\obj\Debug\netcoreapp3.1\Section15HashsetSortedset.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section15HashsetSortedset\Section15HashsetSortedset\obj\Debug\netcoreapp3.1\Section15HashsetSortedset.dll
+C:\Projetos\UdemyCSharp\Section15HashsetSortedset\Section15HashsetSortedset\obj\Debug\netcoreapp3.1\Section15HashsetSortedset.pdb
+C:\Projetos\UdemyCSharp\Section15HashsetSortedset\Section15HashsetSortedset\obj\Debug\netcoreapp3.1\Section15HashsetSortedset.genruntimeconfig.cache

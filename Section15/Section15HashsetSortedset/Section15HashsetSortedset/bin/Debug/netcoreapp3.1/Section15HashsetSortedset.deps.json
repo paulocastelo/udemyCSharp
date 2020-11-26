@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Section15HashsetSortedset/1.0.0": {
+        "runtime": {
+          "Section15HashsetSortedset.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Section15HashsetSortedset/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
