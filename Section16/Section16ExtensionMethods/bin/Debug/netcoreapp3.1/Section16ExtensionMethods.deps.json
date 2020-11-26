@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Section16ExtensionMethods/1.0.0": {
+        "runtime": {
+          "Section16ExtensionMethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Section16ExtensionMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

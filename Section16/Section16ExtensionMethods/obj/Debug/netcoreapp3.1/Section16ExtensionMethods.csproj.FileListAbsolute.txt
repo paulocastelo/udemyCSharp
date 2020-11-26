@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section16\Section16ExtensionMethods\bin\Debug\netcoreapp3.1\Section16ExtensionMethods.exe
+C:\Projetos\UdemyCSharp\Section16\Section16ExtensionMethods\bin\Debug\netcoreapp3.1\Section16ExtensionMethods.deps.json
+C:\Projetos\UdemyCSharp\Section16\Section16ExtensionMethods\bin\Debug\netcoreapp3.1\Section16ExtensionMethods.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section16\Section16ExtensionMethods\bin\Debug\netcoreapp3.1\Section16ExtensionMethods.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section16\Section16ExtensionMethods\bin\Debug\netcoreapp3.1\Section16ExtensionMethods.dll
+C:\Projetos\UdemyCSharp\Section16\Section16ExtensionMethods\bin\Debug\netcoreapp3.1\Section16ExtensionMethods.pdb
+C:\Projetos\UdemyCSharp\Section16\Section16ExtensionMethods\obj\Debug\netcoreapp3.1\Section16ExtensionMethods.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section16\Section16ExtensionMethods\obj\Debug\netcoreapp3.1\Section16ExtensionMethods.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section16\Section16ExtensionMethods\obj\Debug\netcoreapp3.1\Section16ExtensionMethods.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section16\Section16ExtensionMethods\obj\Debug\netcoreapp3.1\Section16ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section16\Section16ExtensionMethods\obj\Debug\netcoreapp3.1\Section16ExtensionMethods.dll
+C:\Projetos\UdemyCSharp\Section16\Section16ExtensionMethods\obj\Debug\netcoreapp3.1\Section16ExtensionMethods.pdb
+C:\Projetos\UdemyCSharp\Section16\Section16ExtensionMethods\obj\Debug\netcoreapp3.1\Section16ExtensionMethods.genruntimeconfig.cache
