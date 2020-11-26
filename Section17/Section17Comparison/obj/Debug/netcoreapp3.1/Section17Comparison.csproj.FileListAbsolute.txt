@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section17\Section17Comparison\bin\Debug\netcoreapp3.1\Section17Comparison.exe
+C:\Projetos\UdemyCSharp\Section17\Section17Comparison\bin\Debug\netcoreapp3.1\Section17Comparison.deps.json
+C:\Projetos\UdemyCSharp\Section17\Section17Comparison\bin\Debug\netcoreapp3.1\Section17Comparison.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section17\Section17Comparison\bin\Debug\netcoreapp3.1\Section17Comparison.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section17\Section17Comparison\bin\Debug\netcoreapp3.1\Section17Comparison.dll
+C:\Projetos\UdemyCSharp\Section17\Section17Comparison\bin\Debug\netcoreapp3.1\Section17Comparison.pdb
+C:\Projetos\UdemyCSharp\Section17\Section17Comparison\obj\Debug\netcoreapp3.1\Section17Comparison.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section17\Section17Comparison\obj\Debug\netcoreapp3.1\Section17Comparison.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section17\Section17Comparison\obj\Debug\netcoreapp3.1\Section17Comparison.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section17\Section17Comparison\obj\Debug\netcoreapp3.1\Section17Comparison.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section17\Section17Comparison\obj\Debug\netcoreapp3.1\Section17Comparison.dll
+C:\Projetos\UdemyCSharp\Section17\Section17Comparison\obj\Debug\netcoreapp3.1\Section17Comparison.pdb
+C:\Projetos\UdemyCSharp\Section17\Section17Comparison\obj\Debug\netcoreapp3.1\Section17Comparison.genruntimeconfig.cache
