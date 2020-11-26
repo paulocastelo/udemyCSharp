@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section15ProposedExercise\Section15ProposedExercise\bin\Debug\netcoreapp3.1\Section15ProposedExercise.exe
+C:\Projetos\UdemyCSharp\Section15ProposedExercise\Section15ProposedExercise\bin\Debug\netcoreapp3.1\Section15ProposedExercise.deps.json
+C:\Projetos\UdemyCSharp\Section15ProposedExercise\Section15ProposedExercise\bin\Debug\netcoreapp3.1\Section15ProposedExercise.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section15ProposedExercise\Section15ProposedExercise\bin\Debug\netcoreapp3.1\Section15ProposedExercise.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section15ProposedExercise\Section15ProposedExercise\bin\Debug\netcoreapp3.1\Section15ProposedExercise.dll
+C:\Projetos\UdemyCSharp\Section15ProposedExercise\Section15ProposedExercise\bin\Debug\netcoreapp3.1\Section15ProposedExercise.pdb
+C:\Projetos\UdemyCSharp\Section15ProposedExercise\Section15ProposedExercise\obj\Debug\netcoreapp3.1\Section15ProposedExercise.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section15ProposedExercise\Section15ProposedExercise\obj\Debug\netcoreapp3.1\Section15ProposedExercise.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section15ProposedExercise\Section15ProposedExercise\obj\Debug\netcoreapp3.1\Section15ProposedExercise.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section15ProposedExercise\Section15ProposedExercise\obj\Debug\netcoreapp3.1\Section15ProposedExercise.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section15ProposedExercise\Section15ProposedExercise\obj\Debug\netcoreapp3.1\Section15ProposedExercise.dll
+C:\Projetos\UdemyCSharp\Section15ProposedExercise\Section15ProposedExercise\obj\Debug\netcoreapp3.1\Section15ProposedExercise.pdb
+C:\Projetos\UdemyCSharp\Section15ProposedExercise\Section15ProposedExercise\obj\Debug\netcoreapp3.1\Section15ProposedExercise.genruntimeconfig.cache
