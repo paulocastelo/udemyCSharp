@@ -1,0 +1,12 @@
+C:\Projetos\UdemyCSharp\Section17Predicate\Section17Predicate\bin\Debug\netcoreapp3.1\Section17Predicate.exe
+C:\Projetos\UdemyCSharp\Section17Predicate\Section17Predicate\bin\Debug\netcoreapp3.1\Section17Predicate.deps.json
+C:\Projetos\UdemyCSharp\Section17Predicate\Section17Predicate\bin\Debug\netcoreapp3.1\Section17Predicate.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section17Predicate\Section17Predicate\bin\Debug\netcoreapp3.1\Section17Predicate.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section17Predicate\Section17Predicate\bin\Debug\netcoreapp3.1\Section17Predicate.dll
+C:\Projetos\UdemyCSharp\Section17Predicate\Section17Predicate\bin\Debug\netcoreapp3.1\Section17Predicate.pdb
+C:\Projetos\UdemyCSharp\Section17Predicate\Section17Predicate\obj\Debug\netcoreapp3.1\Section17Predicate.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section17Predicate\Section17Predicate\obj\Debug\netcoreapp3.1\Section17Predicate.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section17Predicate\Section17Predicate\obj\Debug\netcoreapp3.1\Section17Predicate.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section17Predicate\Section17Predicate\obj\Debug\netcoreapp3.1\Section17Predicate.dll
+C:\Projetos\UdemyCSharp\Section17Predicate\Section17Predicate\obj\Debug\netcoreapp3.1\Section17Predicate.pdb
+C:\Projetos\UdemyCSharp\Section17Predicate\Section17Predicate\obj\Debug\netcoreapp3.1\Section17Predicate.genruntimeconfig.cache
