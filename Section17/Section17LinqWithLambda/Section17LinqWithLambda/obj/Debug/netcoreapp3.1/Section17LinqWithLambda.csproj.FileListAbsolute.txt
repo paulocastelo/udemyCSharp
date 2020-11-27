@@ -1,0 +1,13 @@
+C:\Users\PauloC\source\repos\Section17LinqWithLambda\Section17LinqWithLambda\bin\Debug\netcoreapp3.1\Section17LinqWithLambda.exe
+C:\Users\PauloC\source\repos\Section17LinqWithLambda\Section17LinqWithLambda\bin\Debug\netcoreapp3.1\Section17LinqWithLambda.deps.json
+C:\Users\PauloC\source\repos\Section17LinqWithLambda\Section17LinqWithLambda\bin\Debug\netcoreapp3.1\Section17LinqWithLambda.runtimeconfig.json
+C:\Users\PauloC\source\repos\Section17LinqWithLambda\Section17LinqWithLambda\bin\Debug\netcoreapp3.1\Section17LinqWithLambda.runtimeconfig.dev.json
+C:\Users\PauloC\source\repos\Section17LinqWithLambda\Section17LinqWithLambda\bin\Debug\netcoreapp3.1\Section17LinqWithLambda.dll
+C:\Users\PauloC\source\repos\Section17LinqWithLambda\Section17LinqWithLambda\bin\Debug\netcoreapp3.1\Section17LinqWithLambda.pdb
+C:\Users\PauloC\source\repos\Section17LinqWithLambda\Section17LinqWithLambda\obj\Debug\netcoreapp3.1\Section17LinqWithLambda.csprojAssemblyReference.cache
+C:\Users\PauloC\source\repos\Section17LinqWithLambda\Section17LinqWithLambda\obj\Debug\netcoreapp3.1\Section17LinqWithLambda.AssemblyInfoInputs.cache
+C:\Users\PauloC\source\repos\Section17LinqWithLambda\Section17LinqWithLambda\obj\Debug\netcoreapp3.1\Section17LinqWithLambda.AssemblyInfo.cs
+C:\Users\PauloC\source\repos\Section17LinqWithLambda\Section17LinqWithLambda\obj\Debug\netcoreapp3.1\Section17LinqWithLambda.csproj.CoreCompileInputs.cache
+C:\Users\PauloC\source\repos\Section17LinqWithLambda\Section17LinqWithLambda\obj\Debug\netcoreapp3.1\Section17LinqWithLambda.dll
+C:\Users\PauloC\source\repos\Section17LinqWithLambda\Section17LinqWithLambda\obj\Debug\netcoreapp3.1\Section17LinqWithLambda.pdb
+C:\Users\PauloC\source\repos\Section17LinqWithLambda\Section17LinqWithLambda\obj\Debug\netcoreapp3.1\Section17LinqWithLambda.genruntimeconfig.cache
