@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section17SolvedExercise\Section17SolvedExercise\obj\Debug\netcoreapp3.1\Section17SolvedExercise.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section17SolvedExercise\Section17SolvedExercise\obj\Debug\netcoreapp3.1\Section17SolvedExercise.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section17SolvedExercise\Section17SolvedExercise\obj\Debug\netcoreapp3.1\Section17SolvedExercise.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section17SolvedExercise\Section17SolvedExercise\obj\Debug\netcoreapp3.1\Section17SolvedExercise.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section17SolvedExercise\Section17SolvedExercise\bin\Debug\netcoreapp3.1\Section17SolvedExercise.exe
+C:\Projetos\UdemyCSharp\Section17SolvedExercise\Section17SolvedExercise\bin\Debug\netcoreapp3.1\Section17SolvedExercise.deps.json
+C:\Projetos\UdemyCSharp\Section17SolvedExercise\Section17SolvedExercise\bin\Debug\netcoreapp3.1\Section17SolvedExercise.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section17SolvedExercise\Section17SolvedExercise\bin\Debug\netcoreapp3.1\Section17SolvedExercise.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section17SolvedExercise\Section17SolvedExercise\bin\Debug\netcoreapp3.1\Section17SolvedExercise.dll
+C:\Projetos\UdemyCSharp\Section17SolvedExercise\Section17SolvedExercise\bin\Debug\netcoreapp3.1\Section17SolvedExercise.pdb
+C:\Projetos\UdemyCSharp\Section17SolvedExercise\Section17SolvedExercise\obj\Debug\netcoreapp3.1\Section17SolvedExercise.dll
+C:\Projetos\UdemyCSharp\Section17SolvedExercise\Section17SolvedExercise\obj\Debug\netcoreapp3.1\Section17SolvedExercise.pdb
+C:\Projetos\UdemyCSharp\Section17SolvedExercise\Section17SolvedExercise\obj\Debug\netcoreapp3.1\Section17SolvedExercise.genruntimeconfig.cache
