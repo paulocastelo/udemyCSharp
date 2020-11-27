@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section17IntroductingLINQ\Section17IntroductingLINQ\bin\Debug\netcoreapp3.1\Section17IntroductingLINQ.exe
+C:\Projetos\UdemyCSharp\Section17IntroductingLINQ\Section17IntroductingLINQ\bin\Debug\netcoreapp3.1\Section17IntroductingLINQ.deps.json
+C:\Projetos\UdemyCSharp\Section17IntroductingLINQ\Section17IntroductingLINQ\bin\Debug\netcoreapp3.1\Section17IntroductingLINQ.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section17IntroductingLINQ\Section17IntroductingLINQ\bin\Debug\netcoreapp3.1\Section17IntroductingLINQ.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section17IntroductingLINQ\Section17IntroductingLINQ\bin\Debug\netcoreapp3.1\Section17IntroductingLINQ.dll
+C:\Projetos\UdemyCSharp\Section17IntroductingLINQ\Section17IntroductingLINQ\bin\Debug\netcoreapp3.1\Section17IntroductingLINQ.pdb
+C:\Projetos\UdemyCSharp\Section17IntroductingLINQ\Section17IntroductingLINQ\obj\Debug\netcoreapp3.1\Section17IntroductingLINQ.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section17IntroductingLINQ\Section17IntroductingLINQ\obj\Debug\netcoreapp3.1\Section17IntroductingLINQ.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section17IntroductingLINQ\Section17IntroductingLINQ\obj\Debug\netcoreapp3.1\Section17IntroductingLINQ.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section17IntroductingLINQ\Section17IntroductingLINQ\obj\Debug\netcoreapp3.1\Section17IntroductingLINQ.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section17IntroductingLINQ\Section17IntroductingLINQ\obj\Debug\netcoreapp3.1\Section17IntroductingLINQ.dll
+C:\Projetos\UdemyCSharp\Section17IntroductingLINQ\Section17IntroductingLINQ\obj\Debug\netcoreapp3.1\Section17IntroductingLINQ.pdb
+C:\Projetos\UdemyCSharp\Section17IntroductingLINQ\Section17IntroductingLINQ\obj\Debug\netcoreapp3.1\Section17IntroductingLINQ.genruntimeconfig.cache
