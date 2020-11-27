@@ -1,0 +1,13 @@
+C:\Projetos\UdemyCSharp\Section17MultiCastDelegate\Section17MultiCastDelegate\bin\Debug\netcoreapp3.1\Section17MultiCastDelegate.exe
+C:\Projetos\UdemyCSharp\Section17MultiCastDelegate\Section17MultiCastDelegate\bin\Debug\netcoreapp3.1\Section17MultiCastDelegate.deps.json
+C:\Projetos\UdemyCSharp\Section17MultiCastDelegate\Section17MultiCastDelegate\bin\Debug\netcoreapp3.1\Section17MultiCastDelegate.runtimeconfig.json
+C:\Projetos\UdemyCSharp\Section17MultiCastDelegate\Section17MultiCastDelegate\bin\Debug\netcoreapp3.1\Section17MultiCastDelegate.runtimeconfig.dev.json
+C:\Projetos\UdemyCSharp\Section17MultiCastDelegate\Section17MultiCastDelegate\bin\Debug\netcoreapp3.1\Section17MultiCastDelegate.dll
+C:\Projetos\UdemyCSharp\Section17MultiCastDelegate\Section17MultiCastDelegate\bin\Debug\netcoreapp3.1\Section17MultiCastDelegate.pdb
+C:\Projetos\UdemyCSharp\Section17MultiCastDelegate\Section17MultiCastDelegate\obj\Debug\netcoreapp3.1\Section17MultiCastDelegate.csprojAssemblyReference.cache
+C:\Projetos\UdemyCSharp\Section17MultiCastDelegate\Section17MultiCastDelegate\obj\Debug\netcoreapp3.1\Section17MultiCastDelegate.AssemblyInfoInputs.cache
+C:\Projetos\UdemyCSharp\Section17MultiCastDelegate\Section17MultiCastDelegate\obj\Debug\netcoreapp3.1\Section17MultiCastDelegate.AssemblyInfo.cs
+C:\Projetos\UdemyCSharp\Section17MultiCastDelegate\Section17MultiCastDelegate\obj\Debug\netcoreapp3.1\Section17MultiCastDelegate.csproj.CoreCompileInputs.cache
+C:\Projetos\UdemyCSharp\Section17MultiCastDelegate\Section17MultiCastDelegate\obj\Debug\netcoreapp3.1\Section17MultiCastDelegate.dll
+C:\Projetos\UdemyCSharp\Section17MultiCastDelegate\Section17MultiCastDelegate\obj\Debug\netcoreapp3.1\Section17MultiCastDelegate.pdb
+C:\Projetos\UdemyCSharp\Section17MultiCastDelegate\Section17MultiCastDelegate\obj\Debug\netcoreapp3.1\Section17MultiCastDelegate.genruntimeconfig.cache
